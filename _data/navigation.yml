@@ -20,7 +20,7 @@ main:
         #- testimonials
   
   #resume card
-  - title: "Curriculum Vitae"
+  - title: "CV"
     icon: "android-list"
     slug: "resume"
     sections:
