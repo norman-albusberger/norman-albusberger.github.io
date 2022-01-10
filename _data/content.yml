@@ -155,104 +155,123 @@ testimonials:
 
 ### Resume [ resume ]
 resume:
-  title: "Resume"
+  title: "Curiculum Vitae"
   experience:
-    title: "Experience"
+    title: "Management Consultant (Mandat)"
     icon: "briefcase"
     items:
-      - year: "2013 - Present"
-        role: "Art Director"
-        company: "Facebook Inc."
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2016 - jetzt"
+        role: ""
+        company: "Solfas Technologie GmbH."
+        text: "CEO Advisory & Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Admin, Coaching in agilen Methoden & Standard-Werkzeugen, Requirementsengineering, Scrum Master"
         active: 1
         h_line: 1
 
-      - year: "2011 - 2012"
-        role: "Front-end Developer"
-        company: "Google Inc."
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2006 - 2016"
+        role: "Executive Partner, CTO"
+        company: "PRofiFLITZER GmbH"
+        text: "Unternehmensführung und Leitung der technischen Entwicklung"
         active: 0
         h_line: 1
 
-      - year: "2009 - 2010"
+      - year: "2021 - jetzt"
         role: "Senior Developer"
-        company: "Abc Inc."
-        text: "Optimize website performance using latest technology."
+        company: "Fatchip GmbH."
+        text: ""
+        active: 1
+        h_line: 1
+
+      - year: "2020 - 2021"
+        role: "Frontend-Engineering"
+        company: "Babymarkt GmbH"
+        text: "Unterstütung des Frontend-Teams bei der Softwareentwicklung"
         active: 0
         h_line: 0
+
   education:
-    title: "Education"
+    title: "Ausbildung"
     icon: "university"
     items:
-      - year: "2006 - 2008"
-        institution: "Art University"
-        city: "New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2015"
+        institution: "Technische Universität"
+        city: "Berlin"
+        text: "Diplom in Volkswirtschaftslehre mit Schwerpunkt Netzwerk -und Informationsgüterökonomik und Infrastruktur-Management"
+
+      - year: "2000"
+        institution: "Berliner Lokalnachrichten"
+        city: "Berlin"
+        text: "6-monatiges Praktikum im Verlagsgeschäft als Redakteur"
         h_line: 1
 
-      - year: "2005 - 2006"
-        institution: "Programming Course"
-        city: "Paris"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
-        h_line: 1
-
-      - year: "2004 - 2005"
-        institution: "Web Design Course"
-        city: "London"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "1998-1999"
+        institution: "Bundeswehr"
+        city: "Schleswig-Holstein"
+        text: "Militärdienst im Hauptquartier der allieierten Landstreitkräfte Schleswig-Holstein und Jütland"
         h_line: 0
 
 ### Skills [ skills ]
 skills:
-  title: "My Skills"
+  title: "Kenntnisse"
   columns:
+    - type: "circles" #skills progress type - default, dotted, circles, list
+      title: "Programmiersprachen"
+      icon: "code"
+      items:
+        - label: "PHP"
+          value: "100" #0-100 progress in %
+
+        - label: "JavaScript"
+          value: "100" #0-100 progress in %
+
+        - label: "Python"
+          value: "50" #0-100 progress in %
+
+    - type: "circles" #skills progress type - default, dotted, circles, list
+        title: "API"
+        icon: "code"
+        items:
+          - label: "REST"
+            value: "100" #0-100 progress in %
+
+          - label: "GraphQL"
+            value: "70" #0-100 progress in %
+
+          - label: "OpenAPI/Swagger"
+            value: "80" #0-100 progress in %
+
+
     - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design"
+      title: "Markup / Stylesheet"
       icon: "easel"
       items:
-        - label: "Web Design"
+        - label: "HTML5"
+          value: "100" #0-100 progress in %
+
+        - label: "CSS/SCSS"
           value: "90" #0-100 progress in %
 
-        - label: "Write Music"
-          value: "65" #0-100 progress in %
+        - label: "Yaml/Markdown/JSON"
+          value: "100" #0-100 progress in %
 
-        - label: "Photoshop"
+        - label: "XAML"
           value: "75" #0-100 progress in %
 
-        - label: "Graphic Design"
-          value: "85" #0-100 progress in %
+        - label: "Latex"
+          value: "75" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Languages"
       icon: "flag"
       items:
-        - label: "English"
+        - label: "Englisch"
           value: "90" #0-100 progress in %
 
-        - label: "German"
-          value: "60" #0-100 progress in %
+        - label: "Deutsch"
+          value: "100" #0-100 progress in %
 
-        - label: "Italian"
-          value: "30" #0-100 progress in %
+        - label: "Russisch"
+          value: "20" #0-100 progress in %
 
-        - label: "French"
-          value: "70" #0-100 progress in %
-
-    - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Coding"
-      icon: "code"
-      items:
-        - label: "WordPress"
-          value: "90" #0-100 progress in %
-
-        - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
-
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
-
-        - label: "HTML / CSS"
-          value: "95" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
