@@ -331,20 +331,17 @@ blog:
 
 ### Contact Info List [ contacts-info ]
 contacts_info:
-  title: "Get in Touch"
+  title: "Kontakt"
   list:
-    - label: "Address"
-      value: "California, USA"
+    - label: "Addresse"
+      value: "Berlin/Brandenburg, Deutschland"
 
     - label: "Email"
-      value: "adlard@example.com"
+      value: "norman.albusberger@icloud.com"
 
-    - label: "Phone"
-      value: "+123 654 78900"
-
-    - label: "Freelance"
-      value: "Available"
+    - label: "Telefon"
+      value: "+4917657912348"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
-  title: "Contact Form"
+  title: "Kontakt-Formular"
