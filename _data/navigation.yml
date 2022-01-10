@@ -8,19 +8,19 @@
 
 main:
   #about card
-  - title: "About"
+  - title: "Über mich"
     icon: "person"
     slug: "about"
     sections:
         - about
         - services
-        - pricing
-        - facts
-        - clients
-        - testimonials
+        #- pricing
+        #- facts
+        #- clients
+        #- testimonials
   
   #resume card
-  - title: "Resume"
+  - title: "Curriculum Vitae"
     icon: "android-list"
     slug: "resume"
     sections:
@@ -28,21 +28,21 @@ main:
         - skills
   
   #works card
-  - title: "works"
-    icon: "paintbrush"
-    slug: "works"
-    sections:
-        - portfolio
+ # - title: "works"
+ #   icon: "paintbrush"
+ #   slug: "works"
+ #   sections:
+ #       - portfolio
   
   #blog card
-  - title: "Blog"
-    icon: "chatbox-working"
-    slug: "blog"
-    sections:
-        - blog
+ # - title: "Blog"
+ #   icon: "chatbox-working"
+ #   slug: "blog"
+ #   sections:
+ #       - blog
   
   #contact card
-  - title: "Contact"
+  - title: "Kontakt"
     icon: "at"
     slug: "contacts"
     sections:
