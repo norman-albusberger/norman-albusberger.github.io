@@ -157,13 +157,13 @@ testimonials:
 resume:
   title: "Curiculum Vitae"
   experience:
-    title: "Management Consultant (Mandat)"
+    title: "Management Consultant"
     icon: "briefcase"
     items:
       - year: "2016 - jetzt"
         role: ""
         company: "Solfas Technologie GmbH."
-        text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Admin, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master"
+        text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
         active: 1
         h_line: 1
 
