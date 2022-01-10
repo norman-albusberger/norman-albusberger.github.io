@@ -5,25 +5,31 @@
 
 ### About [ about ]
 about:
-  title: "Über mich"
+  title: "About Me"
   text: "
         <p>
-          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>Volkswirt und IT Spezialist. Ich habe jahrzehnte lange Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahung im Bereich Softwareentwicklung und strategischem IT Management.
+          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
         </p>
         "
   list:
-    - label: "Residenz"
-      value: "Berlin-Brandenburg, Deutschland"
+    - label: "Age"
+      value: "24"
+
+    - label: "Residence"
+      value: "USA"
 
     - label: "Freelance"
-      value: "Verfügbar nach Terminabsprache"
+      value: "Available"
+
+    - label: "Address"
+      value: "California, USA"
 
 ### Services [ services ]
 services:
-  title: "Leistungen"
+  title: "My Services"
   items:
     - icon: "code"
-      name: "Full-Stack Web Entwicklung"
+      name: "Web Development"
       text: "Modern and mobile-ready website that will help you reach all of your marketing."
       h_line: 1
 
@@ -155,123 +161,104 @@ testimonials:
 
 ### Resume [ resume ]
 resume:
-  title: "Curiculum Vitae"
+  title: "Resume"
   experience:
-    title: "Management Consultant (Mandat)"
+    title: "Experience"
     icon: "briefcase"
     items:
-      - year: "2016 - jetzt"
-        role: ""
-        company: "Solfas Technologie GmbH."
-        text: "CEO Advisory & Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Admin, Coaching in agilen Methoden & Standard-Werkzeugen, Requirementsengineering, Scrum Master"
+      - year: "2013 - Present"
+        role: "Art Director"
+        company: "Facebook Inc."
+        text: "Collaborate with creative and development teams on the execution of ideas."
         active: 1
         h_line: 1
 
-      - year: "2006 - 2016"
-        role: "Executive Partner, CTO"
-        company: "PRofiFLITZER GmbH"
-        text: "Unternehmensführung und Leitung der technischen Entwicklung"
+      - year: "2011 - 2012"
+        role: "Front-end Developer"
+        company: "Google Inc."
+        text: "Monitored technical aspects of the front-end delivery for several projects."
         active: 0
         h_line: 1
 
-      - year: "2021 - jetzt"
+      - year: "2009 - 2010"
         role: "Senior Developer"
-        company: "Fatchip GmbH."
-        text: ""
-        active: 1
-        h_line: 1
-
-      - year: "2020 - 2021"
-        role: "Frontend-Engineering"
-        company: "Babymarkt GmbH"
-        text: "Unterstütung des Frontend-Teams bei der Softwareentwicklung"
+        company: "Abc Inc."
+        text: "Optimize website performance using latest technology."
         active: 0
         h_line: 0
-
   education:
-    title: "Ausbildung"
+    title: "Education"
     icon: "university"
     items:
-      - year: "2015"
-        institution: "Technische Universität"
-        city: "Berlin"
-        text: "Diplom in Volkswirtschaftslehre mit Schwerpunkt Netzwerk -und Informationsgüterökonomik und Infrastruktur-Management"
-
-      - year: "2000"
-        institution: "Berliner Lokalnachrichten"
-        city: "Berlin"
-        text: "6-monatiges Praktikum im Verlagsgeschäft als Redakteur"
+      - year: "2006 - 2008"
+        institution: "Art University"
+        city: "New York"
+        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
         h_line: 1
 
-      - year: "1998-1999"
-        institution: "Bundeswehr"
-        city: "Schleswig-Holstein"
-        text: "Militärdienst im Hauptquartier der allieierten Landstreitkräfte Schleswig-Holstein und Jütland"
+      - year: "2005 - 2006"
+        institution: "Programming Course"
+        city: "Paris"
+        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+        h_line: 1
+
+      - year: "2004 - 2005"
+        institution: "Web Design Course"
+        city: "London"
+        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
         h_line: 0
 
 ### Skills [ skills ]
 skills:
-  title: "Kenntnisse"
+  title: "My Skills"
   columns:
-    - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Programmiersprachen"
-      icon: "code"
-      items:
-        - label: "PHP"
-          value: "100" #0-100 progress in %
-
-        - label: "JavaScript"
-          value: "100" #0-100 progress in %
-
-        - label: "Python"
-          value: "50" #0-100 progress in %
-
-    - type: "circles" #skills progress type - default, dotted, circles, list
-        title: "API"
-        icon: "code"
-        items:
-          - label: "REST"
-            value: "100" #0-100 progress in %
-
-          - label: "GraphQL"
-            value: "70" #0-100 progress in %
-
-          - label: "OpenAPI/Swagger"
-            value: "80" #0-100 progress in %
-
-
     - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Markup / Stylesheet"
+      title: "Design"
       icon: "easel"
       items:
-        - label: "HTML5"
-          value: "100" #0-100 progress in %
-
-        - label: "CSS/SCSS"
+        - label: "Web Design"
           value: "90" #0-100 progress in %
 
-        - label: "Yaml/Markdown/JSON"
-          value: "100" #0-100 progress in %
+        - label: "Write Music"
+          value: "65" #0-100 progress in %
 
-        - label: "XAML"
+        - label: "Photoshop"
           value: "75" #0-100 progress in %
 
-        - label: "Latex"
-          value: "75" #0-100 progress in %
+        - label: "Graphic Design"
+          value: "85" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Languages"
       icon: "flag"
       items:
-        - label: "Englisch"
+        - label: "English"
           value: "90" #0-100 progress in %
 
-        - label: "Deutsch"
-          value: "100" #0-100 progress in %
+        - label: "German"
+          value: "60" #0-100 progress in %
 
-        - label: "Russisch"
-          value: "20" #0-100 progress in %
+        - label: "Italian"
+          value: "30" #0-100 progress in %
 
+        - label: "French"
+          value: "70" #0-100 progress in %
+
+    - type: "circles" #skills progress type - default, dotted, circles, list
+      title: "Coding"
+      icon: "code"
+      items:
+        - label: "WordPress"
+          value: "90" #0-100 progress in %
+
+        - label: "PHP / MYSQL"
+          value: "75" #0-100 progress in %
+
+        - label: "Angular / JavaScript"
+          value: "85" #0-100 progress in %
+
+        - label: "HTML / CSS"
+          value: "95" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
