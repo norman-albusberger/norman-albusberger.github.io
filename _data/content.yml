@@ -5,31 +5,25 @@
 
 ### About [ about ]
 about:
-  title: "About Me"
+  title: "Über mich"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>Volkswirt und IT Spezialist. Ich habe jahrzehnte lange Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahung im Bereich Softwareentwicklung.
         </p>
         "
   list:
-    - label: "Age"
-      value: "24"
-
-    - label: "Residence"
-      value: "USA"
+    - label: "Residenz"
+      value: "Berlin-Brandenburg, Deutschland"
 
     - label: "Freelance"
-      value: "Available"
-
-    - label: "Address"
-      value: "California, USA"
+      value: "Verfügbar nach Terminabsprache"
 
 ### Services [ services ]
 services:
-  title: "My Services"
+  title: "Leistungen"
   items:
     - icon: "code"
-      name: "Web Development"
+      name: "Full-Stack Web Entwicklung"
       text: "Modern and mobile-ready website that will help you reach all of your marketing."
       h_line: 1
 
