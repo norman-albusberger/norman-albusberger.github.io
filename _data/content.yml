@@ -227,17 +227,17 @@ skills:
           value: "50" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
-        title: "API"
-        icon: "code"
-        items:
-          - label: "REST"
-            value: "100" #0-100 progress in %
+      title: "API"
+      icon: "code"
+      items:
+        - label: "REST"
+          value: "100" #0-100 progress in %
 
-          - label: "GraphQL"
-            value: "70" #0-100 progress in %
+        - label: "GraphQL"
+          value: "70" #0-100 progress in %
 
-          - label: "OpenAPI/Swagger"
-            value: "80" #0-100 progress in %
+        - label: "OpenAPI/Swagger"
+          value: "80" #0-100 progress in %
 
 
     - type: "default" #skills progress type - default, dotted, circles, list
