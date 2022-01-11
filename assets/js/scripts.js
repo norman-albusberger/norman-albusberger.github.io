@@ -149,7 +149,7 @@ $(function () {
 	/*
 		Smoothscroll
 	*/
-	
+	/*
 	if((width < 1024) & $('#home-card').length) { 
 		$(window).on('scroll', function(){
 			var scrollPos = $(window).scrollTop();
@@ -162,7 +162,7 @@ $(function () {
 				}
 			});
 		});
-	}
+	}*/
 	
 	
 	/*
