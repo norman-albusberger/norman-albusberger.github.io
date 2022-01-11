@@ -16,7 +16,7 @@ about:
       value: "Berlin-Brandenburg, Deutschland"
 
     - label: "Freelance"
-      value: "Verfügbar nach Terminabsprache "#<a href='' onclick='Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;'>Zeitplan Zeitfenster</a>"
+      value: "Verfügbar nach Terminabsprache <a href='' onclick='Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;'>Termin vereinbaren</a>"
 
 ### Services [ services ]
 services:
