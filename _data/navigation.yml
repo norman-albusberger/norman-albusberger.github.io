@@ -27,7 +27,7 @@ main:
         - resume
         - skills
   
-  works card
+  # works card
   - title: "Projekte"
     icon: "paintbrush"
     slug: "works"

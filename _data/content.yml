@@ -232,7 +232,7 @@ skills:
           value: "50" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Frameworks & Bibliotheken"
+      title: "Frameworks/Bibliotheken"
       icon: "code"
       items:
         - label: "Symfony 5"
@@ -241,7 +241,7 @@ skills:
         - label: "jQuery"
           value: "100" #0-100 progress in %
 
-        - label: "Bootstrap 3/4/5"
+        - label: "Bootstrap 3,4,5"
           value: "100"
 
         - label: "Mongoose"
@@ -265,6 +265,7 @@ skills:
 
         - label: "OpenAPI/Swagger"
           value: "80" #0-100 progress in %
+
     - type: "default"
       title: "Datenbanken"
       icon: "easel"
@@ -280,7 +281,6 @@ skills:
 
         - label: "MS-SQL-Server"
           value: "80" #0-100 progress in %
-
 
     - type: "default" #skills progress type - default, dotted, circles, list
       title: "Markup / Stylesheet"
@@ -313,7 +313,6 @@ skills:
 
         - label: "Russisch"
           value: "20" #0-100 progress in %
-
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
