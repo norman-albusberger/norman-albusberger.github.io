@@ -16,7 +16,7 @@ about:
       value: "Berlin-Brandenburg, Deutschland"
 
     - label: "Freelance"
-      value: "Verfügbar nach Terminabsprache <a href='#' onclick='Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;'>Zeitplan Zeitfenster</a>"
+      value: "Verfügbar nach Terminabsprache <a href='' onclick='Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;'>Zeitplan Zeitfenster</a>"
 
 ### Services [ services ]
 services:
@@ -314,56 +314,49 @@ skills:
         - label: "Russisch"
           value: "20" #0-100 progress in %
 
-    - type: "list" #skills progress type - default, dotted, circles, list
-      title: "Knowledge"
-      icon: "android-list"
-      items:
-        - label: "Website hosting"
-          value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
-          value: "" #0-100 progress in %
-
-        - label: "Create logo design"
-          value: "" #0-100 progress in %
-
-        - label: "Design for print"
-          value: "" #0-100 progress in %
-
-        - label: "Modern and mobile-ready"
-          value: "" #0-100 progress in %
-
-        - label: "Advertising services include"
-          value: "" #0-100 progress in %
-
-        - label: "Graphics and animations"
-          value: "" #0-100 progress in %
-
-        - label: "Search engine marketing"
-          value: "" #0-100 progress in %
+    #- type: "list" #skills progress type - default, dotted, circles, list
+    #  title: "Weitere Kentnisse"
+    #  icon: "android-list"
+    #  items:
+    #    - label: ""
+    #      value: "" #0-100 progress in %
+#
+#        - label: "iOS and android apps"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Create logo design"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Design for print"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Modern and mobile-ready"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Advertising services include"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Graphics and animations"
+#          value: "" #0-100 progress in %
+#
+#        - label: "Search engine marketing"
+#          value: "" #0-100 progress in %
 
 ### Portfolio [ portfolio ]
 portfolio:
-  title: "Recent Works"
+  title: "Aktuelle Arbeiten"
   filters:
     - name: "All"
       slug: "grid-item"
       active: 1
 
-    - name: "Photo"
-      slug: "photo"
+    - name: "Beratung"
+      slug: "consulting"
       active: 0
 
-    - name: "Video"
+    - name: "Softwareentwicklung"
       slug: "video"
-      active: 0
-
-    - name: "Music"
-      slug: "music"
-      active: 0
-
-    - name: "Design"
-      slug: "design"
       active: 0
 
 ### Blog [ blog ]
