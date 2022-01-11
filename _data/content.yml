@@ -12,7 +12,7 @@ about:
         </p>
         "
   list:
-    - label: "Residenz"
+    - label: "Wohnort"
       value: "Berlin-Brandenburg, Deutschland"
 
     - label: "Freelance"
@@ -157,11 +157,18 @@ testimonials:
 resume:
   title: "Curiculum Vitae"
   experience:
-    title: "Management Consultant"
+    title: "Tätigkeiten"
     icon: "briefcase"
     items:
+      - year: "2021 - jetzt"
+        role: "Senior Developer"
+        company: "Fatchip GmbH"
+        text: ""
+        active: 1
+        h_line: 1
+
       - year: "2016 - jetzt"
-        role: ""
+        role: "Management Consultant (Mandat)"
         company: "Solfas Technologie GmbH."
         text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
         active: 1
@@ -174,12 +181,7 @@ resume:
         active: 0
         h_line: 1
 
-      - year: "2021 - jetzt"
-        role: "Senior Developer"
-        company: "Fatchip GmbH."
-        text: ""
-        active: 1
-        h_line: 1
+
 
       - year: "2020 - 2021"
         role: "Frontend-Engineering"
@@ -222,6 +224,9 @@ skills:
 
         - label: "JavaScript"
           value: "100" #0-100 progress in %
+
+        - label: "C#"
+          value: "70"
 
         - label: "Python"
           value: "50" #0-100 progress in %
