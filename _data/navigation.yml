@@ -27,12 +27,12 @@ main:
         - resume
         - skills
   
-  #works card
- # - title: "works"
- #   icon: "paintbrush"
- #   slug: "works"
- #   sections:
- #       - portfolio
+  works card
+  - title: "Projekte"
+    icon: "paintbrush"
+    slug: "works"
+    sections:
+        - portfolio
   
   #blog card
  # - title: "Blog"
