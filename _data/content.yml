@@ -8,7 +8,7 @@ about:
   title: "Über mich"
   text: "
         <p>
-          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>Volkswirt und IT Spezialist. Ich habe jahrzehnte lange Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahung im Bereich Softwareentwicklung und strategischem IT Management.
+          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>IT Spezialist und Volkswirt, Ich habe umfangreiche Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahung im Bereich Softwareentwicklung.
         </p>
         "
   list:
@@ -16,7 +16,7 @@ about:
       value: "Berlin-Brandenburg, Deutschland"
 
     - label: "Freelance"
-      value: "Verfügbar nach Terminabsprache"
+      value: "Verfügbar nach Terminabsprache <a href='#' onclick='Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;'>Zeitplan Zeitfenster</a>"
 
 ### Services [ services ]
 services:
