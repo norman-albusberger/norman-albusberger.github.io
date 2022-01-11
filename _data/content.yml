@@ -169,13 +169,6 @@ resume:
         active: 1
         h_line: 1
 
-      - year: "2006 - 2016"
-        role: "Executive Partner, CTO"
-        company: "PRofiFLITZER GmbH"
-        text: "Unternehmensführung und Leitung der technischen Entwicklung"
-        active: 0
-        h_line: 1
-
 
 
       - year: "2020 - 2021"
@@ -184,6 +177,15 @@ resume:
         text: "Unterstütung des Frontend-Teams bei der Softwareentwicklung"
         active: 0
         h_line: 0
+
+      - year: "2006 - 2016"
+        role: "Executive Partner, CTO"
+        company: "PRofiFLITZER GmbH"
+        text: "Unternehmensführung und Leitung der technischen Entwicklung"
+        active: 0
+        h_line: 1
+
+
 
   education:
     title: "Ausbildung"
