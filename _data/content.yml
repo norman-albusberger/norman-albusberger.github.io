@@ -265,21 +265,21 @@ skills:
 
         - label: "OpenAPI/Swagger"
           value: "80" #0-100 progress in %
+    - type: "default"
+      title: "Datenbanken"
+      icon: "easel"
+      items:
+        - label: "mySQL"
+          value: "100" #0-100 progress in %
 
-        title: "Datenbanken"
-        icon: "easel"
-        items:
-          - label: "mySQL"
-            value: "100" #0-100 progress in %
+        - label: "MongoDB"
+          value: "95" #0-100 progress in %
 
-          - label: "MongoDB"
-            value: "95" #0-100 progress in %
+        - label: "SQLLite"
+          value: "60" #0-100 progress in %
 
-          - label: "SQLLite"
-            value: "60" #0-100 progress in %
-
-          - label: "MS-SQL-Server"
-            value: "80" #0-100 progress in %
+        - label: "MS-SQL-Server"
+          value: "80" #0-100 progress in %
 
 
     - type: "default" #skills progress type - default, dotted, circles, list
