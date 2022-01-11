@@ -24,22 +24,17 @@ services:
   items:
     - icon: "code"
       name: "Full-Stack Web Entwicklung"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
-      h_line: 1
-
-    - icon: "music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
+      text: "Ich setzte moderne aber auch erpobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
       h_line: 1
 
     - icon: "speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
-      h_line: 0
+      name: "Strategische Beratung"
+      text: "Digitalisierung bedeutet weit mehr als neue IT-Systeme. Wer Potenziale nutzen will, muss den Trade-off zwischen technologischen Möglichkeiten und betriebswirtschaftlicher Notwendigkeit beherrschen – und den Menschen mitnehmen."
+      h_line: 1
 
-    - icon: "ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
+    - icon: "alert"
+      name: "Interimsmanagement"
+      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orintierten Organisationen."
       h_line: 0
 
 ### Pricing [ pricing ]
@@ -231,7 +226,7 @@ skills:
         - label: "Python"
           value: "50" #0-100 progress in %
 
-    - type: "circles" #skills progress type - default, dotted, circles, list
+    - type: "default" #skills progress type - default, dotted, circles, list
       title: "Frameworks/Bibliotheken"
       icon: "code"
       items:
