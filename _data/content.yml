@@ -231,27 +231,27 @@ skills:
         - label: "Python"
           value: "50" #0-100 progress in %
 
-        - type: "circles" #skills progress type - default, dotted, circles, list
-          title: "Frameworks & Bibliotheken"
-          icon: "code"
-          items:
-            - label: "Symfony 5"
-              value: "100" #0-100 progress in %
+    - type: "circles" #skills progress type - default, dotted, circles, list
+      title: "Frameworks & Bibliotheken"
+      icon: "code"
+      items:
+        - label: "Symfony 5"
+          value: "100" #0-100 progress in %
 
-            - label: "jQuery"
-              value: "100" #0-100 progress in %
+        - label: "jQuery"
+          value: "100" #0-100 progress in %
 
-            - label: "Bootstrap 3/4/5"
-              value: "100"
+        - label: "Bootstrap 3/4/5"
+          value: "100"
 
-            - label: "Mongoose"
-              value: "80" #0-100 progress in %
+        - label: "Mongoose"
+          value: "80" #0-100 progress in %
 
-            - label: ".net"
-              value: "80" #0-100 progress in %
+        - label: ".net"
+          value: "80" #0-100 progress in %
 
-            - label: "Express Node.js"
-              value: "100" #0-100 progress in %
+        - label: "Express Node.js"
+          value: "100" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
       title: "API"
