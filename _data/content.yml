@@ -37,7 +37,7 @@ services:
       text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationen."
       h_line: 0
 
-    - icon: "school"
+    - icon: "ios-book"
       name: "Couching & Trainings"
       text: "Eine der für mich wichtigsten Management-Fähigkeiten ist das Mentoring. Ich teile gern mein Know-How in den unterschiedlichen Bereichen. Ich stehe daher auch gesondert für Lehraufträge und Coachings zur Verfügung."
 
