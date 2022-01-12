@@ -38,7 +38,11 @@
     <!-- profile buttons -->
     <div class="lnks">
       {% for button in vcard.buttons %}
-      <a href="{{ button.url }}" class="lnk">
+      <a href="{{ button.url }}"
+         {% if button.action %}
+          {{button.action}}
+         {% endif %}
+         class="lnk">
         <span class="text">{{ button.title }}</span>
         {% if button.icon != '' %}
         <span class="ion ion-{{ button.icon }}"></span>
