@@ -34,9 +34,9 @@ main:
     #  url: "https://stackoverflow.com/"
   buttons:
     - title: "Termin vereinbaren"
-      icon: "calendar"
+      icon:
       url: "#"
       action: "onclick=\"Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;\""
     - title: "Nachricht schreiben"
-      icon: "at"
+      icon:
       url: "mailto:norman.albusberger@icloud.com"

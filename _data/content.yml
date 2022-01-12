@@ -8,7 +8,7 @@ about:
   title: "Über mich"
   text: "
         <p>
-          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>IT Spezialist und Volkswirt, Ich habe umfangreiche Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahung im Bereich Softwareentwicklung.
+          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>IT Spezialist und Volkswirt, Ich habe umfangreiche Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahrung im Bereich Softwareentwicklung.
         </p>
         "
   list:
@@ -24,7 +24,7 @@ services:
   items:
     - icon: "code"
       name: "Full-Stack Web Entwicklung"
-      text: "Ich setzte moderne aber auch erpobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
+      text: "Ich setze moderne aber auch erprobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
       h_line: 1
 
     - icon: "speakerphone"
@@ -34,7 +34,7 @@ services:
 
     - icon: "alert"
       name: "Interimsmanagement"
-      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orintierten Organisationen."
+      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationen."
       h_line: 0
 
 ### Pricing [ pricing ]
@@ -172,7 +172,7 @@ resume:
       - year: "2020 - 2021"
         role: "Frontend-Engineering"
         company: "Babymarkt GmbH"
-        text: "Unterstütung des Frontend-Teams bei der Softwareentwicklung"
+        text: "Unterstützung des Frontend-Teams bei der Softwareentwicklung"
         active: 0
         h_line: 0
 
@@ -203,7 +203,7 @@ resume:
       - year: "1998-1999"
         institution: "Bundeswehr"
         city: "Schleswig-Holstein"
-        text: "Militärdienst im Hauptquartier der allieierten Landstreitkräfte Schleswig-Holstein und Jütland"
+        text: "Militärdienst im Hauptquartier der alliierten Landstreitkräfte Schleswig-Holstein und Jütland"
         h_line: 0
 
 ### Skills [ skills ]
