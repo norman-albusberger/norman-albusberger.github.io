@@ -33,11 +33,11 @@ main:
     #  icon: "fab fa-stack-overflow"
     #  url: "https://stackoverflow.com/"
   buttons:
-    - title: "Termin vereinbaren"
+    - title: "Termin"
       icon:
       url: "#"
       action: "onclick=\"Calendly.initPopupWidget({url: 'https://calendly.com/norman-albusberger/15min'});return false;\""
-    - title: "Nachricht schreiben"
+    - title: "Nachricht"
       icon:
       url: "mailto:norman.albusberger@icloud.com"
     - title: "Download CV"
