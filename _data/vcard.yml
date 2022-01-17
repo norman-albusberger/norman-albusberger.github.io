@@ -40,3 +40,6 @@ main:
     - title: "Nachricht schreiben"
       icon:
       url: "mailto:norman.albusberger@icloud.com"
+    - title: "Download CV"
+      icon:
+      url: "/assets/Curriculum-Vitae.pdf"

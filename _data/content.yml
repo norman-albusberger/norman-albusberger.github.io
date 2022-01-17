@@ -305,7 +305,7 @@ skills:
       icon: "flag"
       items:
         - label: "Englisch"
-          value: "90" #0-100 progress in %
+          value: "70" #0-100 progress in %
 
         - label: "Deutsch"
           value: "100" #0-100 progress in %
@@ -314,23 +314,23 @@ skills:
           value: "20" #0-100 progress in %
 
 
-    #- type: "list" #skills progress type - default, dotted, circles, list
-    #  title: "Weitere Kentnisse"
-    #  icon: "android-list"
-    #  items:
-    #    - label: ""
-    #      value: "" #0-100 progress in %
+    - type: "list" #skills progress type - default, dotted, circles, list
+        title: "Weitere Kentnisse"
+        icon: "android-list"
+       items:
+         - label: "Webpack"
+           value: "" #0-100 progress in %
 #
-#        - label: "iOS and android apps"
+         - label: "Git"
 #          value: "" #0-100 progress in %
 #
-#        - label: "Create logo design"
+         - label: "npm"
 #          value: "" #0-100 progress in %
 #
-#        - label: "Design for print"
+         - label: "VM Ware"
 #          value: "" #0-100 progress in %
 #
-#        - label: "Modern and mobile-ready"
+         - label: ""
 #          value: "" #0-100 progress in %
 #
 #        - label: "Advertising services include"
