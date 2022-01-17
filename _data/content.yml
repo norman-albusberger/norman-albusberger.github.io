@@ -34,7 +34,7 @@ services:
 
     - icon: "alert"
       name: "Interimsmanagement"
-      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationen."
+      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationseinheiten."
       h_line: 0
 
     - icon: "ios-book"
