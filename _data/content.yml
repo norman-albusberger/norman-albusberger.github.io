@@ -314,23 +314,22 @@ skills:
           value: "20" #0-100 progress in %
 
 
-   # - type: "list" #skills progress type - default, dotted, circles, list
-    #    title: "Weitere Kentnisse"
-    #    icon: "android-list"
-    #    items:
-    #     - label: "Webpack"
-    #       value: "" #0-100 progress in %
-#
-      #    - label: "Git"
+    - type: "list" #skills progress type - default, dotted, circles, list
+      title: "Weitere Kentnisse"
+      icon: "android-list"
+      items:
+        - label: "Webpack"
+          # value: "" #0-100 progress in %
+        - label: "Git"
 #          value: "" #0-100 progress in %
 #
-       #  - label: "npm"
+        - label: "npm"
 #          value: "" #0-100 progress in %
 #
-        # - label: "VM Ware"
+        - label: "VM Ware"
 #          value: "" #0-100 progress in %
 #
-         #- label: ""
+        - label: ""
 #          value: "" #0-100 progress in %
 #
 #        - label: "Advertising services include"
