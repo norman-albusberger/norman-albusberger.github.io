@@ -43,3 +43,4 @@ main:
     - title: "Download CV"
       icon:
       url: "/assets/Curriculum-Vitae.pdf"
+      action: "target=\"_blank\""
