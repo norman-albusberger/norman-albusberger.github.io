@@ -317,7 +317,7 @@ skills:
     - type: "list" #skills progress type - default, dotted, circles, list
         title: "Weitere Kentnisse"
         icon: "android-list"
-       items:
+        items:
          - label: "Webpack"
            value: "" #0-100 progress in %
 #
