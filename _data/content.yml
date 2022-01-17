@@ -232,7 +232,7 @@ skills:
 
     - type: "default" #skills progress type - default, dotted, circles, list
       title: "Frameworks/Bibliotheken"
-      icon: "code"
+      icon: "network"
       items:
         - label: "Symfony 5"
           value: "100" #0-100 progress in %
@@ -267,7 +267,7 @@ skills:
 
     - type: "default"
       title: "Datenbanken"
-      icon: "easel"
+      icon: "folder"
       items:
         - label: "mySQL"
           value: "100" #0-100 progress in %
@@ -282,7 +282,7 @@ skills:
           value: "80" #0-100 progress in %
 
     - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Markup / Stylesheet"
+      title: "Markup / Stylesheet / Templating"
       icon: "easel"
       items:
         - label: "HTML5"
@@ -300,12 +300,21 @@ skills:
         - label: "Latex"
           value: "75" #0-100 progress in %
 
+        - label: "Twig"
+          value: "90" #0-100 progress in %
+
+        - label: "Handlebars"
+          value: "90" #0-100 progress in %
+
+        - label: "MJML"
+          value: "90" #0-100 progress in %
+
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Sprachen"
       icon: "flag"
       items:
         - label: "Englisch"
-          value: "70" #0-100 progress in %
+          value: "80" #0-100 progress in %
 
         - label: "Deutsch"
           value: "100" #0-100 progress in %
