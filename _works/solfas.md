@@ -1,5 +1,5 @@
 ---
-title: Solfas Technologie GmbH - Leitung Softwareentwicklung
+title: Solfas Technologie GmbH - Leitung Softwareentwicklung und strategische Beratung
 category: Softwareentwicklung
 category_slug: consulting
 type: content
