@@ -331,14 +331,11 @@ skills:
           # value: "" #0-100 progress in %
         - label: "Git"
 #          value: "" #0-100 progress in %
-#
         - label: "npm"
 #          value: "" #0-100 progress in %
-#
         - label: "VM Ware"
 #          value: "" #0-100 progress in %
-#
-        - label: ""
+        - label: "Dibian/Ubuntu"
 #          value: "" #0-100 progress in %
 #
 #        - label: "Advertising services include"
