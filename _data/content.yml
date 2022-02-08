@@ -162,12 +162,12 @@ resume:
       - year: "2021 - jetzt"
         role: "Senior Developer"
         company: "Fatchip GmbH"
-        text: ""
+        text: "Wiederkehrende Beauftragung. Softwareentwicklung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
         active: 1
         h_line: 1
 
       - year: "2016 - jetzt"
-        role: "Management Consultant (Mandat)"
+        role: "Management Consultant (dauerhaftes Mandat)"
         company: "Solfas Technologie GmbH."
         text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
         active: 1
