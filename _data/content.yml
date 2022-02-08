@@ -24,7 +24,7 @@ services:
   items:
     - icon: "code"
       name: "Full-Stack Web Entwicklung"
-      text: "Ich setze moderne aber auch erprobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
+      text: "Ich setze moderne aber und erprobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
       h_line: 1
 
     - icon: "speakerphone"
@@ -363,7 +363,7 @@ portfolio:
       active: 0
 
     - name: "Softwareentwicklung"
-      slug: "video"
+      slug: "software"
       active: 0
 
 ### Blog [ blog ]

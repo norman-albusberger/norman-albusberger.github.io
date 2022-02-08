@@ -1,7 +1,7 @@
 ---
 title: Solfas Technologie GmbH - Leitung Softwareentwicklung
 category: Softwareentwicklung
-category_slug: Softwareentwicklung
+category_slug: consulting
 type: content
 button_url: https://www.solfas.com/products/solfas-test-suite-2/
 ---
