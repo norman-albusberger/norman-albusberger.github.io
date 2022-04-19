@@ -337,7 +337,7 @@ skills:
 #          value: "" #0-100 progress in %
         - label: "Dibian/Ubuntu"
 #          value: "" #0-100 progress in %
-#
+        - label: "Docker"
 #        - label: "Advertising services include"
 #          value: "" #0-100 progress in %
 #
