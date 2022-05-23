@@ -1,5 +1,5 @@
 ---
-title: Babymarkt GmbH - Fronend Engineering 
+title: Babymarkt GmbH - Frondend Engineering 
 category: Softwareentwicklung
 category_slug: software
 type: content
