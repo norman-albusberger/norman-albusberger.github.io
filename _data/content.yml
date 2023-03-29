@@ -1,5 +1,5 @@
 # Sections content configuration file
-## 
+##
 ### use navigation.yml file to re-order, delete or add section of each card
 ### here you can find all content in all pre-build sections
 
@@ -8,7 +8,7 @@ about:
   title: "Über mich"
   text: "
         <p>
-          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>IT Spezialist und Volkswirt, Ich habe umfangreiche Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahrung im Bereich Softwareentwicklung.
+          <strong>Hallo! Ich bin Norman Albusberger.</strong><br>IT Generalist und Volkswirt, Ich habe umfangreiche Erfahrung im Bereich Unternehmensführung, strategischem Management und verfüge über 20 Jahre Erfahrung im Bereich Softwareentwicklung.
         </p>
         "
   list:
@@ -159,14 +159,14 @@ resume:
     title: "Tätigkeiten"
     icon: "briefcase"
     items:
-      - year: "2021 - jetzt"
+      - year: "2021 - 2022"
         role: "Senior Developer"
         company: "Fatchip GmbH"
         text: "Wiederkehrende Beauftragung. Softwareentwicklung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
         active: 1
         h_line: 1
 
-      - year: "2016 - jetzt"
+      - year: "2016 - 2022"
         role: "Management Consultant (dauerhaftes Mandat)"
         company: "Solfas Technologie GmbH."
         text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
@@ -225,7 +225,7 @@ skills:
           value: "100" #0-100 progress in %
 
         - label: "C#"
-          value: "70"
+          value: "90"
 
         - label: "Python"
           value: "50" #0-100 progress in %
@@ -257,13 +257,13 @@ skills:
       icon: "code"
       items:
         - label: "REST"
-          value: "100" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
         - label: "GraphQL"
-          value: "70" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
         - label: "OpenAPI/Swagger"
-          value: "80" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
     - type: "default"
       title: "Datenbanken"
@@ -273,7 +273,7 @@ skills:
           value: "100" #0-100 progress in %
 
         - label: "MongoDB"
-          value: "95" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
         - label: "SQLLite"
           value: "60" #0-100 progress in %
@@ -298,23 +298,23 @@ skills:
           value: "75" #0-100 progress in %
 
         - label: "Latex"
-          value: "75" #0-100 progress in %
+          value: "90" #0-100 progress in %
 
         - label: "Twig"
-          value: "90" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
         - label: "Handlebars"
           value: "90" #0-100 progress in %
 
         - label: "MJML"
-          value: "90" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Sprachen"
       icon: "flag"
       items:
         - label: "Englisch"
-          value: "80" #0-100 progress in %
+          value: "90" #0-100 progress in %
 
         - label: "Deutsch"
           value: "100" #0-100 progress in %
@@ -357,6 +357,10 @@ portfolio:
 
     - name: "Beratung"
       slug: "consulting"
+      active: 0
+
+    - name: "Projektmanagement"
+      slug: "project"
       active: 0
 
     - name: "Softwareentwicklung"
