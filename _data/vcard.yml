@@ -13,9 +13,8 @@ main:
   name: "Norman Albusberger"
   typed:
     - text: "Volkswirt"
-    - text: "IT Consultant"
-    - text: "Software-Entwickler"
-    - text: "Freelancer"
+    - text: "IT Generalist"
+    - text: "CTO"
   social:
  #   - title: "Dribbble"
  #     icon: "fab fa-dribbble"
