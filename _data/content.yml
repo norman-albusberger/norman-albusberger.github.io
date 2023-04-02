@@ -163,7 +163,7 @@ resume:
         role: "Senior Developer"
         company: "Fatchip GmbH"
         text: "Wiederkehrende Beauftragung. Softwareentwicklung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
-        active: 1
+        active: 0
         h_line: 1
 
       - year: "2022 - 2023"
@@ -171,14 +171,14 @@ resume:
         company: "Hagebau Gruppe - Digital Seals GmbH, Projekt Hagedoo Handwerkerplattform"
         text: "Technische Leitung des Projekts, Vorbereitung technischer Entscheidungen und Unterstützung bei der
 Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen Methoden und Ritualen im Projektteam"
-        active: 1
+        active: 0
         h_line: 1
 
       - year: "2016 - 2022"
         role: "Management Consultant"
         company: "Solfas Technologie GmbH."
         text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
-        active: 1
+        active: 0
         h_line: 1
 
       - year: "2020 - 2021"
@@ -186,7 +186,7 @@ Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen 
         company: "Babymarkt GmbH"
         text: "Unterstützung des Frontend-Teams bei der Softwareentwicklung"
         active: 0
-        h_line: 0
+        h_line: 1
 
       - year: "2006 - 2016"
         role: "Executive Partner, CTO"
