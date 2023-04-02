@@ -166,8 +166,16 @@ resume:
         active: 1
         h_line: 1
 
+      - year: "2022 - 2023"
+        role: "Senior Technical Project Lead"
+        company: "Hagebau Gruppe - Digital Seals GmbH, Projekt Hagedoo Handwerkerplattform"
+        text: "Technische Leitung des Projekts, Vorbereitung technischer Entscheidungen und Unterstützung bei der
+Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen Methoden und Ritualen im Projektteam"
+        active: 1
+        h_line: 1
+
       - year: "2016 - 2022"
-        role: "Management Consultant (dauerhaftes Mandat)"
+        role: "Management Consultant"
         company: "Solfas Technologie GmbH."
         text: "CEO Advisory und Coaching, Strategisches Marketing, Produkt-Portfolio Analyse, Coaching in agilen Methoden mit Standard-Werkzeugen, Requirementsengineering, Scrum Master, Softwareentwicklung"
         active: 1
