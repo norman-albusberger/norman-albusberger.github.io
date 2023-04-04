@@ -16,8 +16,7 @@ Nun wurde einer der Affen durch einen neuen Affen ersetzt, der die Regeln des Ex
 
 Warum haben die Affen das gemacht? Weil sie gelernt hatten, dass das Greifen der Banane Schmerzen und negative Konsequenzen zur Folge hat. Und obwohl sie nicht mehr wussten, warum das so war, haben sie das Verhalten trotzdem weitergeführt.
 
-Nun stellen wir uns vor, wir haben ein Team von Software-Entwicklern. 
-
+## Und was hat das mit einem IT-Team zu tun?
 
 Nehmen wir an, dass ein Teammitglied auf eine bestimmte Programmiersprache oder Plattform spezialisiert ist und in der Vergangenheit immer erfolgreich damit gearbeitet hat. 
 Nun wird beschlossen, auf eine andere Programmiersprache oder Plattform umzusteigen (Weil ist eben der neue, heiße Scheiß), könnte das Teammitglied sich in Frage gestellt fühlen und befürchten, dass es ersetzt wird?
@@ -28,14 +27,23 @@ Dies kann dazu führen, dass Entwickler sich dazu entscheiden, bestimmte Ansätz
 Und ein 3. Beispiel, was mir aus der Praxis bekannt ist: Ein Unternehmen möchte DevOps-Methoden implementieren und das IT-Team zu reorganisieren, um eine bessere Zusammenarbeit zwischen Entwicklern und Betriebsteams zu ermöglichen. Was machen wir jetzt mit dem Linux-Admin?
 Der Linux-Administrator hat guten Grund zu befürchten, dass seine Fähigkeiten und Kenntnisse in der neuen DevOps-Umgebung nicht mehr relevant sind, da die Bereitstellung von Anwendungen auf Cloud-basierten Plattformen wie AWS oder Google Cloud stattfindet.
 
-Alle Beispiele haben gemeinsam, dass Effektivitäts- und Effizienzvorteile nicht genutzt werden, die wohl unumstritten der Zielerreichung dienlich wären.
+## ChatGPT als Code-Generator
+Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Intelligenz denkt, um Software zu entwickeln. ChatGPT macht das aus meiner Erfahrung beeindruckend gut und kann ein extrem guter Helfer sein.
+Allerdings muss man trotzdem wissen, was man tut. Gibt man die falschen Anweisungen, kann auch ziemlicher Quatsch generiert werden. Wenn man nichts vom Quell-Code versteht, der generiert wird, kann man nicht einmal testen, ob es funktioniert oder nicht. Gibt man aber einen erfahren Entwickler so ein Werkzeug in die Hand,
+kann dieser Stunden bzw. Tage an Arbeitszeit einsparen. Effizienzvorteile, die man auf so viele Arten sinnvoll für den Unternehmenszweck nutzen kann, fernab von Personalkostenoptimierung. 
 
-Und was wäre, wenn wir sie ermutigen würden, Ideen vorzuschlagen? Was wäre, wenn wir eine Kultur schaffen würden, in der Intrinsische Motivation gefördert wird, Ängste und Fehlanreize eliminiert und die Mitarbeiter die Freiheit haben, ihre Arbeit selbst zu organisieren und Entscheidungen zu treffen?
+Mehr zum Thema Coding mit ChatGPT: https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f
+
+## Alle Beispiele haben gemeinsam, dass Effektivitäts- und Effizienzvorteile nicht genutzt werden, die wohl unumstritten der Zielerreichung dienlich wären.
+
+Und was wäre, wenn wir sie ermutigen würden, Ideen vorzuschlagen? Was wäre, wenn wir eine Kultur schaffen würden, in der Effektivität, Effizienz und intrinsische Motivation innerhalb einer Organisation gefördert wird, Ängste und Fehlanreize eliminiert und die Mitarbeiter die Freiheit haben, ihre Arbeit selbst zu organisieren und Entscheidungen zu treffen?
 
 Vielleicht würden unsere IT-Teams dann viel erfolgreicher sein als zuvor. Vielleicht würden sie Probleme schneller lösen und innovative Lösungen entwickeln, weil sie intrinsisch motiviert sind und das Bedürfnis haben, ihre Arbeit zu verbessern und mehr zu erreichen.
 
 Der Linux-Administrator ist Experte für Server und kann auch in Cloud-Umgebungen seine Erfahrung in Bezug auf die Verwaltung von physischen Servern innerhalb des Teams gut einbringen. In der DevOps-Umgebung würde der Linux-Administrator eine Rolle bei der Konfiguration von Cloud-Servern und der Implementierung von Skripten und Automatisierungen spielen können, um eine reibungslose Bereitstellung von Anwendungen auf der Cloud-Plattform zu gewährleisten.  
-Es ist wichtig, dass Unternehmen eine Kultur fördern, in der Mitarbeiter ermutigt werden, ihre Fähigkeiten und Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken.
+
+Diese Anreizsystematik findet man natürlich auch in anderen Bereichen. Der Lebenszyklus von Software-Technologien, Frameworks und Verfahrensweisen ist momentan jedoch viel kürzer als in anderen Bereichen. Man denke beispielsweise nur an die kurzen Release-Zyklen diverser NPM Pakete. (siehe hierzu https://www.npmjs.com/)
+Es ist generell wichtig, dass Unternehmen eine Kultur fördern, in der Mitarbeiter ermutigt werden, ihre Fähigkeiten und Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken.
 
 In diesem Sinne sollten wir alle eine Lehre aus den Affen ziehen und unsere Mitarbeiter ermutigen, ihre Ideen zu teilen und ihr volles Potenzial auszuschöpfen.
 
