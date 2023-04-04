@@ -22,6 +22,11 @@ about:
 services:
   title: "Leistungen"
   items:
+    - icon: "alert"
+      name: "Interimsmanagement, Interim CTO"
+      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationseinheiten."
+      h_line: 0
+
     - icon: "code"
       name: "Full-Stack Web Entwicklung"
       text: "Ich setze moderne aber und erprobte Technologien ein, berücksichtige den Lebenszyklus und die Qualität eingesetzter Open Source Technologien."
@@ -31,11 +36,6 @@ services:
       name: "Strategische Beratung"
       text: "Digitalisierung bedeutet weit mehr als neue IT-Systeme. Wer Potenziale nutzen will, muss den Trade-off zwischen technologischen Möglichkeiten und betriebswirtschaftlicher Notwendigkeit beherrschen – und den Menschen mitnehmen."
       h_line: 1
-
-    - icon: "alert"
-      name: "Interimsmanagement"
-      text: "Weg von klassischen Management-Methoden hin zu agilen, autonomen und Aufgaben-orientierten Organisationseinheiten."
-      h_line: 0
 
     - icon: "ios-book"
       name: "Coaching & Trainings"
@@ -159,18 +159,18 @@ resume:
     title: "Tätigkeiten"
     icon: "briefcase"
     items:
-      - year: "2021 - 2022"
-        role: "Senior Consultant Engineering"
-        company: "Fatchip GmbH"
-        text: "Softwareentwicklung und Beratung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
-        active: 0
-        h_line: 1
-
       - year: "2022 - 2023"
         role: "Senior Technical Project Lead"
         company: "Hagebau Gruppe - Digital Seals GmbH, Projekt Hagedoo Handwerkerplattform"
         text: "Technische Leitung des Projekts, Vorbereitung technischer Entscheidungen und Unterstützung bei der
-Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen Methoden und Ritualen im Projektteam"
+    Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen Methoden und Ritualen im Projektteam"
+        active: 0
+        h_line: 1
+
+      - year: "2021 - 2022"
+        role: "Senior Consultant Engineering"
+        company: "Fatchip GmbH"
+        text: "Softwareentwicklung und Beratung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
         active: 0
         h_line: 1
 
@@ -181,17 +181,17 @@ Weiterentwicklung der Architektur, Ressourcenmanagement, Einführung von agilen 
         active: 0
         h_line: 1
 
-      - year: "2020 - 2021"
-        role: "Frontend-Engineering"
-        company: "Babymarkt GmbH"
-        text: "Unterstützung des Frontend-Teams bei der Softwareentwicklung"
-        active: 0
-        h_line: 1
-
       - year: "2006 - 2016"
         role: "Executive Partner, CTO"
         company: "PRofiFLITZER GmbH"
         text: "Unternehmensführung und Leitung der technischen Entwicklung"
+        active: 0
+        h_line: 1
+
+      - year: "2020 - 2021"
+        role: "Frontend-Engineering"
+        company: "Babymarkt GmbH"
+        text: "Unterstützung des Frontend-Teams bei der Softwareentwicklung"
         active: 0
         h_line: 1
 
