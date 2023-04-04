@@ -160,9 +160,9 @@ resume:
     icon: "briefcase"
     items:
       - year: "2021 - 2022"
-        role: "Senior Developer"
+        role: "Senior Consultant Engineering"
         company: "Fatchip GmbH"
-        text: "Wiederkehrende Beauftragung. Softwareentwicklung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
+        text: "Softwareentwicklung und Beratung in verschiedenen e-Commerce Projekten mit unterschiedlichen Technologien."
         active: 0
         h_line: 1
 
