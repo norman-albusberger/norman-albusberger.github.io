@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Affentheater: effektiveres Management von IT Fachkräften"
-date: 2022-11-11
+date: 2023-04-04
 category:
   - Allgemein
 author: Norman Albusberger
