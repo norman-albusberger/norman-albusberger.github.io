@@ -11,7 +11,7 @@ tags: IT-Management
 In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere Belohnungen oft kontraproduktiv sind. 
 Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. Doch so gut auf dem Punkt kam weder ich bisher noch jemand anders. 
 
-Nun, das dem tatsächlich so ist, kann uns keiner besser zeigen als die Affen, die das berühmte "Affentheater"-Experiment durchgeführt haben.
+Nun, dass dem tatsächlich so ist, kann uns keiner besser zeigen als die Affen, die das berühmte "Affentheater"-Experiment durchgeführt haben.
 
 In diesem Experiment wurden Affen in eine Gruppe gesteckt und ein Stück Banane wurde an die Decke gehängt. Jedes Mal, wenn ein Affe versuchte, die Banane zu greifen, wurde er mit Wasser bespritzt und die ganze Gruppe bekam einen Stromschlag. Nach einiger Zeit hatten die Affen gelernt, dass es besser war, keinen Versuch zu unternehmen, die Banane zu greifen.
 
@@ -22,13 +22,13 @@ Warum haben die Affen das gemacht? Weil sie gelernt hatten, dass das Greifen der
 ## Und was hat das mit einem IT-Team zu tun?
 
 Nehmen wir an, dass ein Teammitglied auf eine bestimmte Programmiersprache oder Plattform spezialisiert ist und in der Vergangenheit immer erfolgreich damit gearbeitet hat. 
-Nun wird beschlossen, auf eine andere Programmiersprache oder Plattform umzusteigen (Weil ist eben der neue, heiße Scheiß), könnte das Teammitglied sich in Frage gestellt fühlen und befürchten, dass es ersetzt wird?
+Nun wird beschlossen, auf eine andere Programmiersprache oder Plattform umzusteigen. Könnte das Teammitglied sich infrage gestellt fühlen oder befürchten, dass es ersetzt wird?
 
 Ein weiteres Beispiel dafür ist die Verwendung von Frameworks oder Vorlagen, um die Entwicklung von Softwareanwendungen zu beschleunigen.
-Ein erfahrener Entwickler kann möglicherweise schnell und sehr effektiv eine Lösung erstellen, die perfekt auf die Anforderungen der Anwendung zugeschnitten ist. Aber wenn die Entwicklung nach Arbeitszeit bezahlt oder bemessen wird, kann es für den Entwickler unklug sein, seine Erfahrung und sein Wissen zu nutzen, um eine schnelle und effektive Lösung zu erstellen.
+Ein erfahrener Entwickler kann möglicherweise schnell und sehr effektiv eine Lösung erstellen, die perfekt auf die Anforderungen der Anwendung zugeschnitten ist, indem er sich Bibliotheken und fertigen Code-Fragmenten bedient. Aber wenn die Entwicklung nach Arbeitszeit bezahlt oder bemessen wird, kann es für den Entwickler unklug sein, seine Erfahrung und sein Wissen zu nutzen, um eine schnelle und effektive Lösung zu erstellen.
 Dies kann dazu führen, dass Entwickler sich dazu entscheiden, bestimmte Ansätze nicht zu implementieren oder moderne Technologien auszuschließen, die Zeit und auch Aufwand einsparen. Klassischer Fehlanreiz also.
-Und ein 3. Beispiel, was mir aus der Praxis bekannt ist: Ein Unternehmen möchte DevOps-Methoden implementieren und das IT-Team zu reorganisieren, um eine bessere Zusammenarbeit zwischen Entwicklern und Betriebsteams zu ermöglichen. Was machen wir jetzt mit dem Linux-Admin?
-Der Linux-Administrator hat guten Grund zu befürchten, dass seine Fähigkeiten und Kenntnisse in der neuen DevOps-Umgebung nicht mehr relevant sind, da die Bereitstellung von Anwendungen auf Cloud-basierten Plattformen wie AWS oder Google Cloud stattfindet.
+Und ein 3. Beispiel, was mir aus der Praxis bekannt ist: Ein Unternehmen möchte DevOps-Methoden implementieren und das IT-Team zu reorganisieren, um eine bessere Zusammenarbeit zwischen Entwicklern und Betriebsteams zu ermöglichen. Was wird nun aus dem Linux-Admin?
+Der Linux-Administrator hat guten Grund zu befürchten, dass seine Fähigkeiten und Kenntnisse in der neuen DevOps-Umgebung nicht mehr relevant erscheinen, da die Bereitstellung von Anwendungen auf Cloud-basierten Plattformen wie AWS oder Google Cloud stattfindet.
 
 ## ChatGPT als Code-Generator
 Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Intelligenz denkt, um Software zu entwickeln. ChatGPT macht das aus meiner Erfahrung beeindruckend gut und kann ein extrem guter Helfer sein.
