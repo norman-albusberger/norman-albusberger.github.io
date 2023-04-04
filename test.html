@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown-Link-Generator</title>
+    <!-- Bootstrap 5 CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css"
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+    <style>
+        .container {
+            max-width: 800px;
+            margin-top: 50px;
+        }
+
+        #copy-btn {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Markdown Link Generator</h1>
+    <form>
+        <div class="mb-3">
+            <label for="url-input" class="form-label">URL</label>
+            <input type="url" class="form-control" id="url-input">
+        </div>
+        <div class="mb-3">
+            <label for="text-input" class="form-label">Text (optional)</label>
+            <input type="text" class="form-control" id="text-input">
+        </div>
+        <button type="button" class="btn btn-primary" id="generate-btn">Generate Markdown Link</button>
+        <button type="button" class="btn btn-secondary" id="copy-btn" data-bs-toggle="popover" data-bs-trigger="focus"
+                data-bs-placement="bottom" data-bs-content="Link copied to clipboard"><i class="far fa-clipboard"></i>
+        </button>
+    </form>
+    <p id="output"></p>
+</div>
+
+<!-- Bootstrap 5 JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"
+        integrity="sha512-EKWWs1ZcA2ZY9lbLISPz8aGR2+L7JVYqBAYTq5AXgBkSjRSuQEGqWx8R1zAX16KdXPaCjOCaKE8MCpU0wcHlHA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    const generateBtn = document.getElementById("generate-btn");
+
+
+    generateBtn.addEventListener("click", () => {
+        const url = document.getElementById("url-input").value;
+        const text = document.getElementById("text-input").value;
+        const output = document.getElementById("output");
+
+        if (url.trim() === "") {
+            output.innerText = "Please enter a valid URL.";
+            return;
+        }
+
+        if (text.trim() === "") {
+            getTitleFromUrl(url)
+                .then(title => {
+                    const link = `[${title}](${url})`;
+                    output.innerText = link;
+
+                    const clipboardBtn = document.getElementById("copy-btn");
+                    clipboardBtn.dataset.clipboardText = link;
+                    clipboardBtn.classList.remove("d-none");
+                    new bootstrap.Popover(clipboardBtn, {content: "Copied!", trigger: "manual"});
+                    clipboardBtn.addEventListener("click", function () {
+                        navigator.clipboard.writeText(clipboardBtn.dataset.clipboardText);
+                        new bootstrap.Popover(clipboardBtn).show();
+                    });
+                });
+        } else {
+            const link = `[${text}](${url})`;
+            if (text.trim() !== "") {
+                output.innerText = `${link} - ${text}`;
+            } else {
+                output.innerText = link;
+            }
+            output.classList.remove("d-none");
+            const clipboardBtn = document.getElementById("copy-btn");
+            clipboardBtn.dataset.clipboardText = output.innerText;
+            clipboardBtn.classList.remove("d-none");
+            new bootstrap.Popover(clipboardBtn, {content: "Copied!", trigger: "manual"});
+            clipboardBtn.addEventListener("click", function () {
+                navigator.clipboard.writeText(clipboardBtn.dataset.clipboardText);
+                new bootstrap.Popover(clipboardBtn).show();
+            });
+        }
+
+    });
+
+    function copyToClipboard() {
+        var output = document.getElementById("output");
+        var range = document.createRange();
+        range.selectNode(output);
+        window.getSelection().removeAllRanges();
+        window.getSelection().addRange(range);
+        document.execCommand("copy");
+        window.getSelection().removeAllRanges();
+    }
+
+    function getTitleFromUrl(url) {
+        return fetch(url)
+            .then(response => response.text())
+            .then(html => {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, "text/html");
+                const titleElement = doc.querySelector("h1");
+                if (titleElement) {
+                    return titleElement.innerText.trim();
+                } else {
+                    return "";
+                }
+            })
+            .catch(error => {
+                console.error(error);
+                return "";
+            });
+    }
+
+</script>
+</body>
+</html>

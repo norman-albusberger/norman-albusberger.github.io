@@ -8,7 +8,10 @@ author: Norman Albusberger
 tags: IT-Management 
 ---
 
-In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere Belohnungen oft kontraproduktiv sind. Und wer könnte uns das besser zeigen als die Affen, die das berühmte "Affentheater"-Experiment durchgeführt haben?
+In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere Belohnungen oft kontraproduktiv sind. 
+Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. Doch so gut auf dem Punkt kam weder ich bisher noch jemand anders. 
+
+Nun, das dem tatsächlich so ist, kann uns keiner besser zeigen als die Affen, die das berühmte "Affentheater"-Experiment durchgeführt haben.
 
 In diesem Experiment wurden Affen in eine Gruppe gesteckt und ein Stück Banane wurde an die Decke gehängt. Jedes Mal, wenn ein Affe versuchte, die Banane zu greifen, wurde er mit Wasser bespritzt und die ganze Gruppe bekam einen Stromschlag. Nach einiger Zeit hatten die Affen gelernt, dass es besser war, keinen Versuch zu unternehmen, die Banane zu greifen.
 
@@ -32,7 +35,7 @@ Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Int
 Allerdings muss man trotzdem wissen, was man tut. Gibt man die falschen Anweisungen, kann auch ziemlicher Quatsch generiert werden. Wenn man nichts vom Quell-Code versteht, der generiert wird, kann man nicht einmal testen, ob es funktioniert oder nicht. Gibt man aber einen erfahren Entwickler so ein Werkzeug in die Hand,
 kann dieser Stunden bzw. Tage an Arbeitszeit einsparen. Effizienzvorteile, die man auf so viele Arten sinnvoll für den Unternehmenszweck nutzen kann, fernab von Personalkostenoptimierung. 
 
-Mehr zum Thema Coding mit ChatGPT: https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f
+Mehr zum Thema Coding mit ChatGPT: [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f)
 
 ## Alle Beispiele haben gemeinsam, dass Effektivitäts- und Effizienzvorteile nicht genutzt werden, die wohl unumstritten der Zielerreichung dienlich wären.
 
