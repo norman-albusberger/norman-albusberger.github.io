@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Affentheater: effektiveres Management von IT Fachkräften und Ingenieuren"
+title: "Affentheater: Effektiveres Management von IT Fachkräften und Ingenieuren"
 date: 2023-04-04
 category:
   - Allgemein
