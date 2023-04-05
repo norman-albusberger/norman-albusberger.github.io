@@ -129,10 +129,8 @@ gewährleisten.
 
 Diese Anreiz-Systematik findet man natürlich auch in anderen Bereichen nicht nur in der Tech-Welt. Aufgrund des kurzen
 Lebenszyklus von Software-Technologien, Frameworks und Verfahrensweisen schätze ich die Brisanz höher ein, als in
-anderen Bereichen. Ein Beispiel sind die kurzen Release-Zyklen diverser NPM Pakete und die damit verbunden Probleme. (
-siehe
-hierzu [The Basics of Dependency Maintenance in NPM/yarn](https://dev.to/th0rgall/the-basics-of-dependency-maintenance-in-npm-yarn-4c1l)
-- The Basics of Dependency Maintenance in NPM/yarn)
+anderen Bereichen. Ein Beispiel sind die kurzen Release-Zyklen diverser NPM Pakete und die damit verbunden Probleme. (siehe
+hierzu [The Basics of Dependency Maintenance in NPM/yarn](https://dev.to/th0rgall/the-basics-of-dependency-maintenance-in-npm-yarn-4c1l))
 
 Es ist generell wichtig, dass Unternehmen eine Kultur fördern, in der Mitarbeiter ermutigt werden, ihre Fähigkeiten und
 Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken.
