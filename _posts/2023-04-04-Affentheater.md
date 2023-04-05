@@ -3,12 +3,11 @@ layout: post
 title: "Affentheater: Effektiveres Management von IT Fachkräften und Ingenieuren"
 date: 2023-04-04
 category:
-
-- Allgemein
-  author: Norman Albusberger
-  tags: IT-Management
-
+  - Allgemein
+author: Norman Albusberger
+tags: IT-Management
 ---
+
 In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere
 Belohnungen oft kontraproduktiv sind.
 Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. Doch so gut auf dem Punkt kam
