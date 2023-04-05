@@ -68,4 +68,5 @@ Diese Anreizsystematik findet man natürlich auch in anderen Bereichen. Der Lebe
 
 Es ist generell wichtig, dass Unternehmen eine Kultur fördern, in der Mitarbeiter ermutigt werden, ihre Fähigkeiten und Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken.
 
-*Das Affenexperiment, das im Blogbeitrag erwähnt wurde, wurde erstmals in den 1960er Jahren vom Psychologen Harry Harlow durchgeführt. Allerdings ist es wichtig zu erwähnen, dass es mehrere Variationen des Experiments gibt und dass die Interpretation und auch die Durchführung der Experimente und deren Ergebnisse umstritten ist.*
+*Das Affenexperiment, das im Blogbeitrag erwähnt wurde, wurde erstmals in den 1950er Jahren vom Psychologen Harry Harlow und Edward Deci durchgeführt. Es ist jedoch zu beachten, dass das Experiment aufgrund ethischer Bedenken heute nicht mehr durchgeführt werden würde, da es eine Tierquälerei darstellen würde und die Ergebnisse auch in der Interpretation umstritten sind.*
+
