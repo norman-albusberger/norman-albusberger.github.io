@@ -64,6 +64,7 @@
                     output.innerText = link;
 
                     const clipboardBtn = document.getElementById("copy-btn");
+                    console.log(clipboardBtn);
                     clipboardBtn.dataset.clipboardText = link;
                     clipboardBtn.classList.remove("d-none");
                     new bootstrap.Popover(clipboardBtn, {content: "Copied!", trigger: "manual"});
