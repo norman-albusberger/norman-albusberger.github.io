@@ -45,17 +45,17 @@ bessere Ergebnisse erzielen.
 ## Falsche Anreize
 
 Es ist allgemein üblich, Stunden, - oder Tagessätze für die Entwicklungsarbeit an Software zu bezahlen. Ich selbst wurde
-auch oft so entlohnt. Beauftragt man einen Freiberufler bzw. eine Agentur, ist die häufig die erste Frage, wie der
-Stundensatz bzw. der Tagessatz ist. Die Rechnung hierbei ist ziemlich simpel. Dauert es länger, verdient man mehr Geld.
-Das ist aber nicht im Interesse des Auftraggebers. Weder das es mehr Geld kostet, noch das es länger dauert. Ein
-Fehlanreiz aus der , der im Rahmen der [Prinzipal-Agent-Theorie](https://de.wikipedia.org/wiki/Prinzipal-Agent-Theorie)
+auch oft so entlohnt. Beauftragt man einen Freiberufler bzw. eine Agentur, ist in der Regel die erste Frage, wie der
+Stundensatz bzw. der Tagessatz ist. Die Rechnung hierbei ist ziemlich simpel. Dauert es länger, verdient man mehr Geld. 
+Das ist aber nicht im Interesse des Auftraggebers. Weder das es mehr Geld kostet, noch das es länger dauert. Ein systemischer
+Fehlanreiz der im Rahmen der [Prinzipal-Agent-Theorie](https://de.wikipedia.org/wiki/Prinzipal-Agent-Theorie)
 aus der neuen Institutionenökonomik hinreichend untersucht ist und eine Rolle beim Marktversagen durch
-Informationsmängel spielt.
+Informationsmängel spielt. 
 
 Ein praktisches Beispiel aus diesem Blickwinkel kann die Verwendung von Frameworks oder Vorlagen sein, um die
-Entwicklung von Softwareanwendungen zu beschleunigen oder eben sogar zu bremsen. Je nach dem, wie sie verwendet werden.
+Entwicklung von Softwareanwendungen zu beschleunigen oder eben sogar zu bremsen. Je nachdem, wie sie verwendet werden.
 Dies kann insbesondere dann auftreten, wenn der Auftraggeber nicht in der Lage ist, die Qualität und die Kosten der vom
-Dienstleister bzw. Entwickler erbrachten Arbeit zu bewerten.
+Dienstleister bzw. Entwickler erbrachten Arbeit zu bewerten. Es besteht ein Anreiz seitens des Entwicklers oder der Agentur diese Informationsmängel strategisch auszunutzen.
 
 Ein erfahrener Entwickler kann möglicherweise schnell und sehr effektiv eine Lösung erstellen, die perfekt auf die
 Anforderungen der Anwendung zugeschnitten ist, indem er sich Bibliotheken und fertigen Code-Fragmenten bedient oder je
@@ -65,18 +65,9 @@ schnelle und effektive Lösung zu erstellen.
 Dies kann dazu führen, dass Entwickler sich dazu entscheiden, bestimmte Ansätze nicht zu implementieren oder moderne
 Technologien auszuschließen, die Zeit und auch Aufwand einsparen oder die Effizienzvorteile selbst nutzen, ohne diese
 transparent zu kommunizieren. Je nachdem kann er sein Know-How nutzen, um die Dinge langwierig und kompliziert machen
-oder um das Tempo zu erhöhen. Er wird sich für die Variante entscheiden, die für ihn den größten Nutzen stiftet - sprich
-- am vorteilhaftesten ist.
+oder um das Tempo zu erhöhen. Er wird sich für die Variante entscheiden, die für ihn den größten Nutzen stiftet bzw. am vorteilhaftesten ist.
 
-## Effizienzvorteile bleiben oft ungenutzt
-
-Ein Unternehmen würde gern DevOps-Methoden implementieren und das IT-Team so reorganisieren, um eine bessere Zusammenarbeit zwischen Entwicklern und Betriebsteams zu ermöglichen. Das Team, was vorrangig aus Linux-Administratoren
-besteht, wird keinen großen Anreiz haben, hier ein Wegbereiter zu sein, wenn es ums Sparen geht.
-Der Linux-Administrator hat guten Grund zu befürchten, dass seine Fähigkeiten und Kenntnisse in der neuen
-DevOps-Umgebung nicht mehr relevant erscheinen, da die Bereitstellung von Anwendungen auf Cloud-basierten Plattformen
-wie AWS oder Google Cloud stattfindet.
-
-### ChatGPT als Code-Generator
+## Effizienzvorteile bleiben oft ungenutzt - ChatGPT als Code-Generator
 
 Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Intelligenz denkt, um Software zu
 entwickeln. ChatGPT macht das, aus meiner Erfahrung, beeindruckend gut (wenn auch nicht immer fehlerfrei) und kann ein guter Helfer sein.
