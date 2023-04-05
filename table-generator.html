@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown Table Generator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"
+          integrity="sha512-ULV7q3yOrl9Vc0x8zRlL7cfEQj6UZ7wUQa8iZ7dn3YpM9o21OhM87RiWZ7VtrvK1rITcTlDWdPZJhBnF9H9X/Q=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+</head>
+<body>
+<div class="container mt-5">
+    <h1 class="mb-4">Markdown Table Generator</h1>
+
+    <div class="row">
+        <div class="col-sm-3">
+            <label for="num-cols" class="form-label">Number of Columns</label>
+            <input id="num-cols" type="number" class="form-control" min="1" value="3">
+        </div>
+        <div class="col-sm-9" id="column-titles">
+        </div>
+    </div>
+
+    <hr class="my-5">
+
+    <div class="row">
+        <div class="col-sm-12">
+            <table class="table table-bordered table-striped">
+                <thead id="table-header">
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+            <h2 class="my-4">Markdown Output</h2>
+            <pre id="markdown-container"></pre>
+        </div>
+    </div>
+</div>
+
+<script>
+    const generateTable = () => {
+        const numCols = Number(document.getElementById('num-cols').value);
+        const columnTitles = getColumnTitles();
+        const numRows = getNumRows();
+
+        // Generate table header
+        const tableHeader = document.getElementById('table-header');
+        tableHeader.innerHTML = '';
+        const headerRow = document.createElement('tr');
+        for (let i = 0; i < numCols; i++) {
+            const th = document.createElement('th');
+            th.scope = 'col';
+            th.textContent = columnTitles[i] || '';
+            headerRow.appendChild(th);
+        }
+        tableHeader.appendChild(headerRow);
+
+        // Generate table body
+        const tableBody = document.getElementById('table-body');
+        tableBody.innerHTML = '';
+        for (let i = 0; i < numRows; i++) {
+            const tr = document.createElement('tr');
+            for (let j = 0; j < numCols; j++) {
+                const td = document.createElement('td');
+                const input = document.createElement('input');
+                input.type = 'text';
+                input.classList.add('form-control');
+                input.addEventListener('input', () => generateMarkdown());
+                td.appendChild(input);
+                tr.appendChild(td);
+            }
+            tableBody.appendChild(tr);
+        }
+
+        generateMarkdown();
+    };
+
+    const generateMarkdown = () => {
+        const numCols = Number(document.getElementById('num-cols').value);
+        const columnTitles = getColumnTitles();
+        const numRows = getNumRows();
+
+        let markdown = '|';
+        for (let i = 0; i < numCols; i++) {
+            markdown += ` ${columnTitles[i] || ''} |`;
+        }
+        markdown += '\n|';
+        for (let i = 0; i < numCols; i++) {
+            markdown += ' --- |';
+        }
+        markdown += '\n';
+        const tableRows = document.querySelectorAll('#table-body tr');
+        for (let i = 0; i < numRows; i++) {
+            const tableCells = tableRows[i].querySelectorAll('td');
+            markdown += '|';
+            for (let j = 0; j < numCols; j++) {
+                const value = tableCells[j].querySelector('input').value;
+                markdown += ` ${value} |`;
+            }
+            markdown += '\n';
+        }
+
+        document.getElementById('markdown-container').textContent = markdown;
+    };
+
+    const getColumnTitles = () => {
+        const columnTitles = [];
+        const numCols = Number(document.getElementById('num-cols').value);
+        const titleInputs = document.querySelectorAll('#column-titles input');
+        for (let i = 0; i < numCols; i++) {
+            columnTitles.push(titleInputs[i].value);
+        }
+        return columnTitles;
+    };
+
+    const getNumRows = () => {
+        return Number(prompt('How many rows would you like to generate?') || '5');
+    };
+
+    const initColumnTitles = () => {
+        const numCols = Number(document.getElementById('num-cols').value);
+        const columnTitlesContainer = document.getElementById('column-titles');
+        columnTitlesContainer.innerHTML = '';
+        for (let i = 0; i < numCols; i++) {
+            const div = document.createElement('div');
+            div.classList.add('mb-3', 'col-sm-4');
+            const label = document.createElement('label');
+            label.for = `column-title-${i}`;
+            label.textContent = `Column ${i + 1} Title`;
+            const input = document.createElement('input');
+            input.id = `column-title-${i}`;
+            input.type = 'text';
+            input.classList.add('form-control');
+            input.addEventListener('input', () => generateTable());
+            div.appendChild(label);
+            div.appendChild(input);
+            columnTitlesContainer.appendChild(div);
+        }
+    };
+
+    document.getElementById('num-cols').addEventListener('input', () => {
+        initColumnTitles();
+        generateTable();
+    });
+
+    initColumnTitles();
+    generateTable();
+</script>
+</body>
+</html>
