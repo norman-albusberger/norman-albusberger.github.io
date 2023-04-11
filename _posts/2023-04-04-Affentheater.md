@@ -10,8 +10,7 @@ tags: IT-Management
 
 In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere
 Belohnungen oft kontraproduktiv sind.
-Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. Doch so gut auf dem Punkt kam
-bisher weder ich noch jemand anders mir bekanntes.
+Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. 
 
 Nun, dass dem tatsächlich so ist, kann uns keiner besser zeigen als die Affen, die an einem gewissen Experiment
 beteiligt waren:
@@ -34,13 +33,19 @@ zu erhalten, sondern auch aufgrund von Neugier und Spaß an der Aufgabe.
 ## Und was hat das mit einem IT-Team zu tun?
 
 Die Erkenntnisse haben gezeigt, dass Belohnungen und Strafen nicht immer die beste Motivationsquelle für komplexe
-kognitive Aufgaben sind. Insbesondere für Aufgaben, die kreative Problemlösung erfordern, kann extrinsische Motivation (
+kognitive Aufgaben sind. Und man möge es kaum glauben: Auch mit Menschen wurden Experimente durchgeführt, die auf die gleichen Ergebnisse kommen. Insbesondere für Aufgaben, die kreative Problemlösung erfordern, kann extrinsische Motivation (
 z.B. Belohnungen) dazu führen, dass die intrinsische Motivation des Arbeitenden, die aus dem natürlichen Interesse an
 der Aufgabe selbst entsteht, untergraben wird.
 
-In der Softwareentwicklung ist kreative Problemlösung eine wichtige Komponente, und das Fördern intrinsischer Motivation
+In der Softwareentwicklung ist kreative Problemlösung eine wichtige Komponente:
+
+Angenommen, ein Team wird mit der Aufgabe betraut, eine Möglichkeit zu implementieren, um in einer E-Commerce-Anwendung personalisierte Produktvorschläge für Benutzer zu generieren.
+
+Um diese Aufgabe zu bewältigen, muss das Team verschiedene Ansätze erforschen, um relevante Daten zu sammeln, Algorithmen zu entwickeln, um die Daten zu analysieren, zu verdichten und schließlich eine benutzerfreundliche Schnittstelle für die Anzeige der Produktvorschläge entwerfen. Es erfordert also kreatives Denken, um neue Ideen zu generieren, verschiedene Technologien und Techniken zu erforschen und Lösungen zu entwickeln, die den Anforderungen der Anwendung und den Bedürfnissen der Benutzer gerecht werden.
+
+ Das Fördern intrinsischer Motivation
 kann dazu beitragen, dass Entwickler sich tiefer mit der Aufgabe beschäftigen, selbstständiger arbeiten und letztendlich
-bessere Ergebnisse erzielen.
+bessere Ergebnisse erzielen. 
 
 ## Falsche Anreize
 
@@ -72,9 +77,8 @@ oder um das Tempo zu erhöhen. Er wird sich für die Variante entscheiden, die f
 Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Intelligenz denkt, um Software zu
 entwickeln. ChatGPT macht das, aus meiner Erfahrung, beeindruckend gut (wenn auch nicht immer fehlerfrei) und kann ein guter Helfer sein.
 Allerdings muss man trotzdem wissen, was man tut und in der Lage sein den Output zu interpretieren. Gibt man die
-falschen Anweisungen, kann die Ausgabe so falsch sein, dass man sie gar nicht mehr verwenden kann werden. Wenn man
-nichts vom Quell-Code versteht, der generiert wird, kann man nicht einmal testen, ob es funktioniert oder nicht. Gibt
-man aber einen erfahrenen Entwickler dieses Werkzeug in die Hand,
+falschen Anweisungen, kann die Ausgabe so falsch sein, dass man sie gar nicht mehr verwenden kann. Wenn man bespielsweise nicht die Programmiersprache mitteilt, die verwendet werden soll, nimmt ChatGPT irgend eine, die es möchte. Kurz um: Wenn man kein Verständnis für Softwareentwicklung hat, steht man mit ChatGPT als Tool zur Codegenerierung genauso da wie ohne. Gibt
+man aber einen erfahrenen Software-Ingenieur dieses Werkzeug in die Hand,
 kann dieser Stunden bzw. Tage an Arbeitszeit einsparen. Effizienzvorteile, die man auf so viele Arten sinnvoll für den
 Unternehmenszweck nutzen kann, fernab von Personalkostenoptimierung.
 
@@ -89,33 +93,27 @@ ChatGPT: [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-c
 Effektive und effiziente Arbeitsweisen können jedoch dazu beitragen, die intrinsische Motivation der IT-Fachkräfte zu
 fördern. Zum Beispiel kann die Implementierung von agilen Methoden, die es den Beteiligten ermöglichen, ihre Arbeit
 selbstständiger zu planen und durchzuführen, dazu beitragen, dass sie sich stärker mit der Aufgabe identifizieren und
-ihr Interesse an der Aufgabe aufrechterhalten.
+ihr Interesse an der Aufgabe aufrechterhalten. 
 
 Darüber hinaus kann die Schaffung einer unterstützenden Arbeitsumgebung, die eine offene Kommunikation und
 Zusammenarbeit zwischen den Teammitgliedern ermöglicht, dazu beitragen, die intrinsische Motivation der Entwickler zu
 fördern. Eine positive und ermutigende Atmosphäre kann dazu beitragen, dass Entwickler ihre Fähigkeiten verbessern und
-ihre Ziele erreichen möchten, ohne dass dabei Belohnungen oder Strafen benötigt werden.
+ihre Ziele erreichen möchten, ohne dass dabei Belohnungen oder Strafen benötigt werden. Zusätzlich kann positives Feedback von Benutzern oder Kollegen die Motivation des Teams weiter stärken und das Engagement für zukünftige Projekte erhöhen.
 
-Insgesamt zeigen die genannten Experimente, dass intrinsische Motivation ein starker Treiber für kreatives
+Insgesamt zeigen sowohl die Forschungsergebnisse als auch meine ganz persönliche Erfahrung, dass intrinsische Motivation ein starker Treiber für kreatives
 Problemlösungsverhalten ist. Indem man die Arbeitsbedingungen und -methoden so gestaltet, dass sie die intrinsische
 Motivation der Entwickler unterstützen, können Unternehmen und Teams bessere Ergebnisse erzielen und gleichzeitig das
-Engagement und die Zufriedenheit der Mitarbeiter erhöhen.
+Engagement und die Zufriedenheit der Mitarbeiter erhöhen. 
 
 ## Der Niedergang von Zuckerbrot und Peitsche
 
-Und was wäre, wenn wir sie ermutigen würden, Ideen vorzuschlagen? Was wäre, wenn wir eine Kultur schaffen würden, in der
+Was wäre also, wenn man eine Kultur schafft, in der
 Effektivität, Effizienz und intrinsische Motivation innerhalb einer Organisation gefördert wird, Ängste und Fehlanreize
-eliminiert und die Mitarbeiter die Freiheit haben, ihre Arbeit selbst zu organisieren und Entscheidungen zu treffen?
+eliminiert und die Mitarbeiter die Freiheit haben, ihre Arbeit selbst zu organisieren und Entscheidungen zu treffen? Der Fokus sollte dabei auf dem qualitativen Output liegen. Arbeitsergebnisse sollten im Vordergrund stehen und nicht etwa der zur Erbringung der Leistung erforderliche Aufwand. 
 
-Vielleicht würden unsere IT-Teams dann viel erfolgreicher sein als zuvor. Vielleicht würden sie Probleme schneller lösen
+Vielleicht würden IT-Teams dann viel erfolgreicher sein als zuvor. Vielleicht würden sie Probleme schneller lösen
 und innovative Lösungen entwickeln, weil sie intrinsisch motiviert sind und das Bedürfnis haben, ihre Arbeit zu
 verbessern und mehr zu erreichen.
-
-Der Linux-Administrator ist Experte für Server und kann auch in Cloud-Umgebungen seine Erfahrung in Bezug auf die
-Verwaltung von physischen Servern innerhalb des Teams gut einbringen. In der DevOps-Umgebung würde der
-Linux-Administrator eine Rolle bei der Konfiguration von Cloud-Servern und der Implementierung von Skripten und
-Automatisierungen spielen können, um eine reibungslose Bereitstellung von Anwendungen auf der Cloud-Plattform zu
-gewährleisten.
 
 Diese Anreiz-Systematik findet man natürlich auch in anderen Bereichen nicht nur in der Tech-Welt. Aufgrund des kurzen
 Lebenszyklus von Software-Technologien, Frameworks und Verfahrensweisen schätze ich die Brisanz höher ein, als in
@@ -123,7 +121,7 @@ anderen Bereichen. Ein Beispiel sind die kurzen Release-Zyklen diverser NPM Pake
 hierzu [The Basics of Dependency Maintenance in NPM/yarn](https://dev.to/th0rgall/the-basics-of-dependency-maintenance-in-npm-yarn-4c1l))
 
 Es ist generell wichtig, dass Unternehmen eine Kultur fördern, in der Mitarbeiter ermutigt werden, ihre Fähigkeiten und
-Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken.
+Erfahrungen zu nutzen, um optimale Lösungen zu finden, anstatt Know-How zu verstecken und Fortschritt zu unterdrücken. Belohnungsanreize sollten daher ebenfalls sorgfältig gestaltet und geprüft werden, um eine optimale Motivation und Leistungsfähigkeit der Mitarbeiter zu erreichen.
 
 *Das Affenexperiment, das im Blogbeitrag erwähnt wurde, wurde erstmals in den 1950er Jahren vom Psychologen Harry Harlow
 und Edward Deci durchgeführt. Es ist jedoch zu beachten, dass das Experiment aufgrund ethischer Bedenken heute nicht
