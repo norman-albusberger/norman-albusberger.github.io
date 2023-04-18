@@ -12,10 +12,7 @@ In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der
 Belohnungen oft kontraproduktiv sind.
 Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. 
 
-Nun, dass dem tatsächlich so ist, kann uns keiner besser zeigen als die Affen, die an einem gewissen Experiment
-beteiligt waren:
-
-Harry Harlow und Edward Deci in den 40er Jahren des 20. Jahrhunderts durchgeführten Experiment wurden acht Rhesusaffen
+In einem von Harry Harlow und Edward Deci in den 40er Jahren des letzten Jahrhunderts durchgeführten Experiment wurden acht Rhesusaffen
 in Einzelkäfigen gehalten und aufgefordert, ein mechanisches Puzzle zu lösen. Das Puzzle bestand aus einer Schachtel,
 die an einem Draht hing und durch Ziehen des Drahtes geöffnet werden konnte, um an eine Banane zu gelangen. Die Banane
 war die Belohnung für das Lösen des Puzzles.
