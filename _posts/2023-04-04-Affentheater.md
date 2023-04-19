@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Affentheater: Effektiveres Management von IT Fachkräften und Ingenieuren"
+title: "Affentheater - Effektiveres Management von IT Fachkräften und Ingenieuren"
 date: 2023-04-04
 category:
   - Allgemein
@@ -9,8 +9,8 @@ tags: IT-Management
 ---
 
 In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere
-Belohnungen oft kontraproduktiv sind.
-Davon war ich schon sehr lange überzeugt, lange bevor mir das Buch in die Finger kam. 
+Belohnungen oft kontraproduktiv sind. 
+Davon war ich schon sehr lange überzeugt. Lange bevor mir das Buch in die Finger kam. Jedoch so gut beschrieben hat es nach meiner Kenntnis her niemand. Sehr plausibel wird das Thema an einem Experiment mit Affen erläutert.
 
 In einem von Harry Harlow und Edward Deci in den 40er Jahren des letzten Jahrhunderts durchgeführten Experiment wurden acht Rhesusaffen
 in Einzelkäfigen gehalten und aufgefordert, ein mechanisches Puzzle zu lösen. Das Puzzle bestand aus einer Schachtel,
@@ -27,7 +27,7 @@ dass es auch andere Faktoren gibt, die das Verhalten und die Motivation beeinflu
 zeigten ein hohes Maß an intrinsischer Motivation, was bedeutet, dass sie das Puzzle nicht nur lösten, um eine Belohnung
 zu erhalten, sondern auch aufgrund von Neugier und Spaß an der Aufgabe.
 
-## Und was hat das mit einem IT-Team zu tun?
+## Und was hat das mit IT-Teams zu tun?
 
 Die Erkenntnisse haben gezeigt, dass Belohnungen und Strafen nicht immer die beste Motivationsquelle für komplexe
 kognitive Aufgaben sind. Und man möge es kaum glauben: Auch mit Menschen wurden Experimente durchgeführt, die auf die gleichen Ergebnisse kommen. Insbesondere für Aufgaben, die kreative Problemlösung erfordern, kann extrinsische Motivation (
