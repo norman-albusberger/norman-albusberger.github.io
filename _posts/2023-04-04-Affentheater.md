@@ -72,9 +72,10 @@ oder um das Tempo zu erhöhen. Er wird sich für die Variante entscheiden, die f
 ## Effizienzvorteile bleiben oft ungenutzt - ChatGPT als Code-Generator
 
 Noch dramatischer wird der Gedanke, wenn man an den Einsatz von künstlicher Intelligenz denkt, um Software zu
-entwickeln. ChatGPT macht das, aus meiner Erfahrung, beeindruckend gut (wenn auch nicht immer fehlerfrei) und kann ein guter Helfer sein.
-Allerdings muss man trotzdem wissen, was man tut und in der Lage sein den Output zu interpretieren. Gibt man die
-falschen Anweisungen, kann die Ausgabe so falsch sein, dass man sie gar nicht mehr verwenden kann. Wenn man bespielsweise nicht die Programmiersprache mitteilt, die verwendet werden soll, nimmt ChatGPT irgend eine, die es möchte. Kurz um: Wenn man kein Verständnis für Softwareentwicklung hat, steht man mit ChatGPT als Tool zur Codegenerierung genauso da wie ohne. Gibt
+entwickeln. [ChatGPT](https://chat.openai.com/) oder auch [GitHub Copilot](https://github.com/features/copilot), was auf [Open AI Codex](https://openai.com/blog/openai-codex) basiert, machen das, aus meiner Erfahrung, beeindruckend gut (wenn auch nicht immer fehlerfrei) und können hervorragende Helfer sein. 
+Allerdings muss man trotzdem wissen, was man tut und in der Lage sein den Output zu interpretieren. Gibt man beispielsweise bei ChatGPT
+falsche Anweisungen, kann die Ausgabe so falsch sein, dass man sie gar nicht mehr verwenden kann. 
+Teilt man ChatGPT beispielsweise nicht die Programmiersprache mit, die verwendet werden soll, nimmt ChatGPT irgend eine, die es möchte. Kurz um: Wenn man kein Verständnis für Softwareentwicklung hat, steht man mit ChatGPT als Tool zur Codegenerierung genauso da wie ohne. Gibt
 man aber einen erfahrenen Software-Ingenieur dieses Werkzeug in die Hand,
 kann dieser Stunden bzw. Tage an Arbeitszeit einsparen. Effizienzvorteile, die man auf so viele Arten sinnvoll für den
 Unternehmenszweck nutzen kann, fernab von Personalkostenoptimierung.
