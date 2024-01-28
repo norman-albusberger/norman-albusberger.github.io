@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Marktversagen durch Feuerwerkskörper: Eine Analyse der externen Effekte in Deutschland"
-date: 2024-01-28
+title: "Marktversagen und Feuerwerkskörper: Eine Analyse der externen Effekte von Sylvesterfeuerwerk in Deutschland"
+date: 2023-01-28
 category:
   -Economics
 author: Norman Albusberger
