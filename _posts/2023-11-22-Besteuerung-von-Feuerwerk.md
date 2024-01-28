@@ -39,7 +39,9 @@ Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer
 Die mathematische Darstellung der Preiselastizität der Nachfrage und der Auswirkung einer Steuer könnte wie folgt formuliert werden:
 
 1. **Preiselastizität der Nachfrage:**
-   \[ \varepsilon = \frac{\% \text{ Änderung der nachgefragten Menge}}{\% \text{ Änderung des Preises}} = \frac{dQ/Q}{dP/P} \]
+  
+2. $$ x = y^2 $$
+2. \[ \varepsilon = \frac{\% \text{ Änderung der nachgefragten Menge}}{\% \text{ Änderung des Preises}} = \frac{dQ/Q}{dP/P} \]
 
 2. **Nachfragefunktion vor Steuer:**
    \[ Q = 100 - 0.5P \]
