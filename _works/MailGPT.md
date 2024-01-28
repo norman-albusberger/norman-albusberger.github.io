@@ -3,7 +3,7 @@ title: MailGPT
 category: Softwareentwicklung
 category_slug: project
 type: content
-image: assets/img/clients/hagedoo.svg
+image: assets/img/clients/mailgpt.png
 button_url: https://github.com/norman-albusberger/MailGPT
 
 ---
