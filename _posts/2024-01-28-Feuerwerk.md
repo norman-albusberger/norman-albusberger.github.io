@@ -1,6 +1,12 @@
-### Marktversagen durch Feuerwerkskörper: Eine Analyse der externen Effekte in Deutschland
-
-#### Einleitung
+---
+layout: post
+title: "Marktversagen durch Feuerwerkskörper: Eine Analyse der externen Effekte in Deutschland"
+date: 2024-01-28
+category:
+  -Allgemein
+author: Norman Albusberger
+tags: Economics
+---
 
 Die Nutzung von Feuerwerken während der Silvesterfeierlichkeiten ist eine tief verwurzelte Tradition in Deutschland, die von vielen als Ausdruck von Freude und Hoffnung auf das neue Jahr angesehen wird. Trotz ihrer Beliebtheit wirft die Praxis der Feuerwerksnutzung jedoch ernsthafte Fragen im Hinblick auf Umwelt, Gesundheit und Sicherheit auf. Diese Problematik lässt sich im Rahmen der ökonomischen Theorie der externen Effekte und des Marktversagens analysieren. Diese Abhandlung erörtert, wie die Feuerwerksnutzung in Deutschland ein Beispiel für Marktversagen durch negative externe Effekte darstellt und diskutiert mögliche politische Maßnahmen zur Korrektur dieser Marktunvollkommenheiten.
 
@@ -27,7 +33,7 @@ Um die durch Feuerwerke verursachten negativen externen Effekte zu adressieren u
 
 1. **Regulierung:** Einführung strengerer Vorschriften für den Verkauf und die Nutzung von Feuerwerkskörpern, einschließlich Beschränkungen in dicht besiedelten oder besonders schutzbedürftigen Gebieten.
 
-2. **Besteuerung:** Implementierung einer Feuerwerkssteuer, die die externen Kosten internalisiert und dadurch die Nutzung von Feuerwerken reduziert. Die Einnahmen könnten für Umweltschutzmaßnahmen oder die Gesundheitsversorgung verwendet werden.
+2. **Besteuerung:** Implementierung einer Feuerwerkssteuer, die die externen Kosten internalisiert und dadurch die Nutzung von Feuerwerken reduziert. Die Einnahmen könnten für Umweltschutzmaßnahmen oder die Gesundheitsversorgung verwendet werden. Eine detaillierte Betrachtung diese Maßnahme findet sich hier: [Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage](https://norman-albusberger.github.io/2023/11/22/Besteuerung-von-Feuerwerk/)
 
 3. **Aufklärung:** Sensibilisierungskampagnen, die über die negativen Auswirkungen von Feuerwerken aufklären und Alternativen aufzeigen, wie Lichtshows oder öffentlich organisierte Feuerwerke, die unter strengen Sicherheits- und Umweltauflagen stattfinden.
 

@@ -1,6 +1,12 @@
-### Detaillierte Erörterung der Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage
-
-#### Besteuerung als politische Maßnahme
+---
+layout: post
+title: "Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage"
+date: 2024-01-28
+category:
+  -Allgemein
+author: Norman Albusberger
+tags: Economics
+---
 
 Die Einführung einer Steuer auf Feuerwerke ist eine mögliche Maßnahme, um die negativen externen Effekte, die durch deren Nutzung entstehen, zu internalisieren. Eine solche Steuer würde den Preis von Feuerwerkskörpern erhöhen, mit dem Ziel, die Nachfrage zu reduzieren und die sozialen Kosten, die durch Umweltverschmutzung, Lärmbelästigung, Sicherheitsrisiken und Reinigungsaufwand entstehen, besser widerzuspiegeln. Die Wirksamkeit dieser Maßnahme hängt jedoch stark von der Preiselastizität der Nachfrage nach Feuerwerken ab.
 
