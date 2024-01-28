@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marktversagen und Feuerwerkskörper: Eine Analyse der externen Effekte von Sylvesterfeuerwerk in Deutschland"
+title: "Feuerwerkskörper und Marktversagen: Eine Analyse der externen Effekte von Sylvesterfeuerwerk in Deutschland"
 date: 2023-01-28
 category:
   -Economics
