@@ -3,7 +3,7 @@ layout: post
 title: "Marktversagen durch Feuerwerkskörper: Eine Analyse der externen Effekte in Deutschland"
 date: 2024-01-28
 category:
-  -Allgemein
+  -Economics
 author: Norman Albusberger
 tags: Economics
 ---

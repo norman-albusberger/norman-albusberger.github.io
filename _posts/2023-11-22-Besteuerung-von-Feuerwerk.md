@@ -3,7 +3,7 @@ layout: post
 title: "Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage"
 date: 2024-01-28
 category:
-  -Allgemein
+  -Economics
 author: Norman Albusberger
 tags: Economics
 ---

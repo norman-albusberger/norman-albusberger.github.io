@@ -3,7 +3,7 @@ layout: post
 title: "Affentheater - Effektiveres Management von IT Fachkräften und Ingenieuren"
 date: 2023-04-04
 category:
-  - Allgemein
+  -IT-Management
 author: Norman Albusberger
 tags: IT-Management
 ---
