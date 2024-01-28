@@ -26,6 +26,36 @@ Die Einführung einer Steuer auf Feuerwerke würde den Verkaufspreis erhöhen un
 
 Die Einnahmen aus der Feuerwerkssteuer könnten zweckgebunden eingesetzt werden, um die durch Feuerwerke verursachten externen Kosten zu kompensieren, beispielsweise für Gesundheitsversorgung, Umweltschutzmaßnahmen oder die Reinigung öffentlicher Plätze.
 
+Die Nachfrage nach Feuerwerk könnte etwa durch eine Nachfragefunktion repräsentiert werden, bei der die Menge nur langsam mit steigenden Preisen abnimmt.
+
+Wir nehmen an, die Nachfrage nach Feuerwerk $$  Q  $$ in Abhängigkeit vom Preis $$  P  $$ kann durch die folgende lineare Funktion dargestellt werden:
+
+$$ Q = a - bP $$
+
+wobei:
+- $$  a  $$ die maximale Nachfragemenge bei einem Preis von 0 darstellt (theoretischer Maximalwert der Nachfrage),
+- $$ b $$ die Sensitivität der Nachfrage in Bezug auf Preisänderungen darstellt (eine geringere Zahl für $$ b $$ bedeutet eine geringere Preiselastizität).
+
+Für unser Beispiel setzen wir $$  a = 500 $$  (Einheiten) und $$  b = 0.1 $$ , was eine relativ geringe Preiselastizität der Nachfrage impliziert:
+
+$$  Q = 500 - 0.1P $$ 
+
+#### Besteuerung:
+
+Nehmen wir an, eine Steuer $$  T $$  pro Einheit Feuerwerk wird eingeführt. Diese Steuer erhöht effektiv den Preis pro Einheit Feuerwerk für den Konsumenten. Die neue Nachfragefunktion unter Berücksichtigung der Steuer würde dann lauten:
+
+$$  Q_T = 500 - 0.1(P + T) $$ 
+
+Wenn wir eine Steuer von $$  T = 50 $$  (Einheiten) annehmen, würde die neue Nachfragefunktion werden:
+
+$$  Q_T = 500 - 0.1(P + 50) $$ 
+
+#### Auswirkung der Steuer:
+
+Die Auswirkung der Steuer auf die Nachfrage lässt sich durch den Vergleich der Nachfragemengen vor und nach der Einführung der Steuer bei verschiedenen Preispunkten ermitteln. Da $$  b $$  relativ klein ist, zeigt die geringe Steigung der Nachfragefunktion, dass selbst eine signifikante Steuererhöhung die Nachfragemenge nicht drastisch reduzieren würde. Dies spiegelt eine geringe Preiselastizität der Nachfrage wider, bei der Konsumenten trotz höherer Preise durch die Steuer nicht wesentlich weniger Feuerwerk nachfragen.
+
+Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wie sie für Produkte mit hoher kultureller oder traditioneller Bedeutung wie Feuerwerk typisch ist, eine Besteuerung möglicherweise nicht zu einer signifikanten Reduzierung der Nachfrage führt. Dies unterstreicht die Bedeutung der Berücksichtigung der spezifischen Eigenschaften des Marktes und der Verbrauchersensitivität bei der Gestaltung von Steuerpolitiken.
+
 #### Kritische Betrachtung
 
 Während eine Besteuerung theoretisch eine effiziente Möglichkeit darstellt, um externe Kosten zu internalisieren, ist ihre praktische Wirksamkeit von der genauen Ausgestaltung und der Preiselastizität der Nachfrage abhängig. Zudem sollte die soziale Akzeptanz einer solchen Steuer berücksichtigt werden, um negative Auswirkungen auf die Bevölkerung, insbesondere auf einkommensschwächere Haushalte, zu vermeiden.
@@ -35,18 +65,3 @@ Während eine Besteuerung theoretisch eine effiziente Möglichkeit darstellt, um
 Die Besteuerung von Feuerwerken kann ein wirksames Instrument sein, um die negativen externen Effekte der Feuerwerksnutzung zu adressieren und eine nachhaltigere Nutzung zu fördern. Ihre Effektivität hängt jedoch stark von der Preiselastizität der Nachfrage und der sorgfältigen Ausgestaltung der Steuer ab. Eine umfassende Analyse und gegebenenfalls eine schrittweise Einführung könnten dabei helfen, die Auswirkungen dieser Maßnahme zu beobachten und anzupassen, um eine gerechte und effektive Lösung zu gewährleisten.
 
 Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Der schattierte Bereich stellt den Steuereffekt dar, der die Differenz zwischen den Preisen vor und nach der Steuer bei einer bestimmten Menge zeigt.
-
-Die mathematische Darstellung der Preiselastizität der Nachfrage und der Auswirkung einer Steuer könnte wie folgt formuliert werden:
-
-1. **Preiselastizität der Nachfrage:**
-  
-2. $$ \varepsilon = \frac{\% \text{ Änderung der nachgefragten Menge}}{\% \text{ Änderung des Preises}} = \frac{dQ/Q}{dP/P} $$
-
-2. **Nachfragefunktion vor Steuer:**
-   $$ Q = 100 - 0.5P $$
-
-3. **Nachfragefunktion nach Steuer:**
- $$ Q = 100 - 0.5(P + T) $$
-   wobei $$ ( T ) $$ die Höhe der Steuer darstellt.
-
-Die Preiselastizität der Nachfrage ($$ \varepsilon $$) misst, wie sensibel die Nachfrage auf Preisänderungen reagiert, und die Veränderung der Nachfragefunktion zeigt, wie eine Steuer den Preis, den die Konsumenten effektiv zahlen, erhöht, was wiederum die nachgefragte Menge beeinflusst.
