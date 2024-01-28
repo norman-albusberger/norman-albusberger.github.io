@@ -159,6 +159,13 @@ resume:
     title: "Tätigkeiten"
     icon: "briefcase"
     items:
+      - year: "2023 - Now"
+        role: "Migrationsmanager"
+        company: "Bundesdruckerei Gruppe"
+        text: "Leitung der Migration zu einer modernen ITSM-Plattform im Customer Service."
+        active: 1
+        h_line: 1
+
       - year: "2022 - 2023"
         role: "Senior Technical Project Lead"
         company: "Hagebau Gruppe - Digital Seals GmbH, Projekt Hagedoo Handwerkerplattform"
