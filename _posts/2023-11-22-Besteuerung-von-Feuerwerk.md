@@ -50,6 +50,11 @@ Wenn wir eine Steuer von $$  T = 50 $$  (Einheiten) annehmen, würde die neue Na
 
 $$  Q_T = 500 - 0.1(P + 50) $$ 
 
+
+![Nachfrage nach Feuerwerk](/assets%2Fimg%2Fblog%2Fnachfrage-nach-feuerwerk.png))
+
+Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Der schattierte Bereich stellt den Steuereffekt dar, der die Differenz zwischen den Preisen vor und nach der Steuer bei einer bestimmten Menge zeigt.
+
 #### Auswirkung der Steuer:
 
 Die Auswirkung der Steuer auf die Nachfrage lässt sich durch den Vergleich der Nachfragemengen vor und nach der Einführung der Steuer bei verschiedenen Preispunkten ermitteln. Da $$  b $$  relativ klein ist, zeigt die geringe Steigung der Nachfragefunktion, dass selbst eine signifikante Steuererhöhung die Nachfragemenge nicht drastisch reduzieren würde. Dies spiegelt eine geringe Preiselastizität der Nachfrage wider, bei der Konsumenten trotz höherer Preise durch die Steuer nicht wesentlich weniger Feuerwerk nachfragen.
@@ -58,10 +63,10 @@ Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wi
 
 #### Kritische Betrachtung
 
-Während eine Besteuerung theoretisch eine effiziente Möglichkeit darstellt, um externe Kosten zu internalisieren, ist ihre praktische Wirksamkeit von der genauen Ausgestaltung und der Preiselastizität der Nachfrage abhängig. Zudem sollte die soziale Akzeptanz einer solchen Steuer berücksichtigt werden, um negative Auswirkungen auf die Bevölkerung, insbesondere auf einkommensschwächere Haushalte, zu vermeiden.
+Während eine Besteuerung theoretisch eine effiziente Möglichkeit darstellt, um externe Kosten zu internalisieren, ist ihre praktische Wirksamkeit von der genauen Ausgestaltung und der Preiselastizität der Nachfrage abhängig. 
 
 #### Fazit
 
 Die Besteuerung von Feuerwerken kann ein wirksames Instrument sein, um die negativen externen Effekte der Feuerwerksnutzung zu adressieren und eine nachhaltigere Nutzung zu fördern. Ihre Effektivität hängt jedoch stark von der Preiselastizität der Nachfrage und der sorgfältigen Ausgestaltung der Steuer ab. Eine umfassende Analyse und gegebenenfalls eine schrittweise Einführung könnten dabei helfen, die Auswirkungen dieser Maßnahme zu beobachten und anzupassen, um eine gerechte und effektive Lösung zu gewährleisten.
 
-Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Der schattierte Bereich stellt den Steuereffekt dar, der die Differenz zwischen den Preisen vor und nach der Steuer bei einer bestimmten Menge zeigt.
+
