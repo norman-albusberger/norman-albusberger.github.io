@@ -40,14 +40,13 @@ Die mathematische Darstellung der Preiselastizität der Nachfrage und der Auswir
 
 1. **Preiselastizität der Nachfrage:**
   
-2. $$ x = y^2 $$
-2. \[ \varepsilon = \frac{\% \text{ Änderung der nachgefragten Menge}}{\% \text{ Änderung des Preises}} = \frac{dQ/Q}{dP/P} \]
+2. $$ \varepsilon = \frac{\% \text{ Änderung der nachgefragten Menge}}{\% \text{ Änderung des Preises}} = \frac{dQ/Q}{dP/P} $$
 
 2. **Nachfragefunktion vor Steuer:**
-   \[ Q = 100 - 0.5P \]
+   $$ Q = 100 - 0.5P $$
 
 3. **Nachfragefunktion nach Steuer:**
-   \[ Q = 100 - 0.5(P + T) \]
-   wobei \( T \) die Höhe der Steuer darstellt.
+ $$ Q = 100 - 0.5(P + T) $$
+   wobei $$ ( T ) $$ die Höhe der Steuer darstellt.
 
-Die Preiselastizität der Nachfrage (\( \varepsilon \)) misst, wie sensibel die Nachfrage auf Preisänderungen reagiert, und die Veränderung der Nachfragefunktion zeigt, wie eine Steuer den Preis, den die Konsumenten effektiv zahlen, erhöht, was wiederum die nachgefragte Menge beeinflusst.
+Die Preiselastizität der Nachfrage ($$ \varepsilon $$) misst, wie sensibel die Nachfrage auf Preisänderungen reagiert, und die Veränderung der Nachfragefunktion zeigt, wie eine Steuer den Preis, den die Konsumenten effektiv zahlen, erhöht, was wiederum die nachgefragte Menge beeinflusst.
