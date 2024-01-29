@@ -34,7 +34,7 @@ services:
 
     - icon: "speakerphone"
       name: "Strategische Beratung"
-      text: "Digitalisierung bedeutet weit mehr als neue IT-Systeme. Wer Potenziale nutzen will, muss den Trade-off zwischen technologischen Möglichkeiten und betriebswirtschaftlicher Notwendigkeit beherrschen – und den Menschen mitnehmen."
+      text: "Die Digitalisierung erfordert mehr als nur neue IT-Systeme; sie verlangt eine sorgfältige Abwägung zwischen technischen Möglichkeiten und wirtschaftlichen Erfordernissen, unter Einbeziehung des menschlichen Aspekts."
       h_line: 1
 
     - icon: "ios-book"
