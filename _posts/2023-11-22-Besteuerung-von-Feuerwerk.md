@@ -53,7 +53,7 @@ $$  Q_T = 500 - 0.1(P + 50) $$
 
 ![Nachfrage nach Feuerwerk](/assets%2Fimg%2Fblog%2Fnachfrage-nach-feuerwerk.png))
 
-Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Der schattierte Bereich stellt den Steuereffekt dar, der die Differenz zwischen den Preisen vor und nach der Steuer bei einer bestimmten Menge zeigt.
+Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Die Fläche zwischen beiden Nachfragefunktionen stellt den Steuereffekt dar.
 
 #### Auswirkung der Steuer:
 
