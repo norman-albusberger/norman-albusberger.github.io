@@ -61,6 +61,13 @@ Die Auswirkung der Steuer auf die Nachfrage lässt sich durch den Vergleich der 
 
 Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wie sie für Produkte mit hoher kultureller oder traditioneller Bedeutung wie Feuerwerk typisch ist, eine Besteuerung möglicherweise nicht zu einer signifikanten Reduzierung der Nachfrage führt. Dies unterstreicht die Bedeutung der Berücksichtigung der spezifischen Eigenschaften des Marktes und der Verbrauchersensitivität bei der Gestaltung von Steuerpolitiken.
 
+#### Fehlende Zweckbindung
+
+Ein wesentlicher Nachteil der Nutzung von Steuern zur Internalisierung externer Effekte, wie etwa bei der Besteuerung von Feuerwerken, ist die möglicherweise fehlende Zweckbindung der Steuereinnahmen. Steuereinnahmen fließen in den allgemeinen Haushalt und sind nicht automatisch für spezifische Maßnahmen vorgesehen, die die durch die besteuerten Aktivitäten verursachten externen Effekte direkt angehen. Ohne eine gesetzlich festgelegte Zweckbindung könnten die Einnahmen aus einer Steuer auf Feuerwerke beispielsweise nicht gezielt für Umweltschutzmaßnahmen, Gesundheitsvorsorge oder die Reinigung öffentlicher Räume nach Silvester verwendet werden.
+
+Aber selbst wenn eine Zweckbindung besteht, gibt es keine Garantie dafür, dass die Mittel auf effiziente Weise zur Minderung der externen Effekte eingesetzt werden. Die Wirksamkeit der Verwendung der Steuereinnahmen hängt von der Qualität der staatlichen Planung, Durchführung und Überwachung der entsprechenden Maßnahmen ab.
+
+
  #### Kritische Betrachtung
 Die Idee einer Besteuerung zur Internalisierung externer Kosten, insbesondere im Kontext der Feuerwerksnutzung, stößt in der Praxis auf bedeutende Herausforderungen. Die Wirksamkeit einer solchen Steuer hängt entscheidend von der Preiselastizität der Nachfrage ab, die im Falle von Feuerwerken als relativ gering einzustufen ist. Dies bedeutet, dass selbst signifikante Preiserhöhungen durch Steuern möglicherweise keine substanzielle Reduktion der Nachfrage nach sich ziehen. Hinzu kommt, dass Feuerwerke tief in kulturellen und traditionellen Praktiken verwurzelt sind, was ihre Nachfrage zusätzlich preisunelastisch macht. Die Annahme, dass eine Besteuerung allein eine effiziente Lösung zur Adressierung der durch Feuerwerke verursachten externen Effekte darstellt, könnte daher zu optimistisch sein.
 
