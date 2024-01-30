@@ -40,7 +40,7 @@ Für unser Beispiel setzen wir $$  a = 500 $$  (Einheiten) und $$  b = 0.1 $$ , 
 
 $$  Q = 500 - 0.1P $$ 
 
-#### Besteuerung:
+#### Formale Analyse einer pauschalen Besteuerung:
 
 Nehmen wir an, eine Steuer $$  T $$  pro Einheit Feuerwerk wird eingeführt. Diese Steuer erhöht effektiv den Preis pro Einheit Feuerwerk für den Konsumenten. Die neue Nachfragefunktion unter Berücksichtigung der Steuer würde dann lauten:
 
@@ -60,6 +60,24 @@ Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer
 Die Auswirkung der Steuer auf die Nachfrage lässt sich durch den Vergleich der Nachfragemengen vor und nach der Einführung der Steuer bei verschiedenen Preispunkten ermitteln. Da $$  b $$  relativ klein ist, zeigt die geringe Steigung der Nachfragefunktion, dass selbst eine signifikante Steuererhöhung die Nachfragemenge nicht drastisch reduzieren würde. Dies spiegelt eine geringe Preiselastizität der Nachfrage wider, bei der Konsumenten trotz höherer Preise durch die Steuer nicht wesentlich weniger Feuerwerk nachfragen.
 
 Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wie sie für Produkte mit hoher kultureller oder traditioneller Bedeutung wie Feuerwerk typisch ist, eine Besteuerung möglicherweise nicht zu einer signifikanten Reduzierung der Nachfrage führt. Dies unterstreicht die Bedeutung der Berücksichtigung der spezifischen Eigenschaften des Marktes und der Verbrauchersensitivität bei der Gestaltung von Steuerpolitiken.
+
+#### Analyse einer prozentualen Besteuerung
+
+Wenn die Besteuerung auf Feuerwerk nicht als pauschaler Betrag pro Einheit, sondern als prozentualer Aufschlag auf den Preis erfolgt, würde dies den Verkaufspreis des Feuerwerks in Abhängigkeit vom Basispreis erhöhen. Angenommen, der Steuersatz beträgt $$ t $$ Prozent des Preises. Dann würde der effektive Preis, den die Konsumenten zahlen, $$ P(1 + t) $$ sein, wobei $$ P $$ der Basispreis ohne Steuer ist und $$ t $$ als Dezimalzahl ausgedrückt wird (z.B. bedeutet ein Steuersatz von 20%, dass $$ t = 0.20 $$ beträgt.).
+
+Für eine lineare Nachfragefunktion ohne Steuer, die durch $$ Q = a - bP $$ dargestellt wird, wobei $$ Q $$ die nachgefragte Menge, $$ P $$ der Preis, $$ a $$ die maximale Nachfragemenge bei einem Preis von 0 und $$ b $$ die Sensitivität der Nachfrage in Bezug auf Preisänderungen ist, würde die Nachfragefunktion mit einer prozentualen Besteuerung wie folgt modifiziert:
+
+$$ Q_T = a - bP(1 + t) $$
+
+In dieser Gleichung:
+- $$ Q_T $$ ist die nachgefragte Menge nach der Einführung der prozentualen Steuer,
+- $$ P(1 + t) $$ repräsentiert den neuen Preis inklusive der Steuer.
+
+Diese modifizierte Nachfragefunktion zeigt, dass die nachgefragte Menge $$ Q_T $$ nicht nur vom Basispreis $$ P $$ abhängt, sondern auch vom erhöhten Preis durch die prozentuale Besteuerung. Die Steigung der Nachfragekurve bleibt unverändert, aber die Kurve verschiebt sich nach links, was eine Verringerung der nachgefragten Menge bei jedem Preisniveau bedeutet. Der Grad dieser Verschiebung und die Auswirkungen auf die nachgefragte Menge hängen vom Steuersatz $$ t $$ ab.
+
+![Prozentuale Besteuerung von Feuerwerk](..%2Fassets%2Fimg%2Fblog%2Fbesteuerung-prozentual.png)
+
+Diese Form der Besteuerung kann dazu führen, dass die Preissensitivität der Konsumenten stärker ins Gewicht fällt, da höhere Basispreise durch den prozentualen Aufschlag zu überproportional höheren Endpreisen führen. Im Gegensatz zu einer pauschalen Steuer, die unabhängig vom Preis des Feuerwerks ist, wirkt sich eine prozentuale Steuer stärker auf teurere Feuerwerkskörper aus und könnte somit das Kaufverhalten stärker beeinflussen, insbesondere bei preissensitiven Konsumenten.
 
 #### Fehlende Zweckbindung
 
