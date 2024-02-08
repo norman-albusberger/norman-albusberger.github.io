@@ -63,7 +63,9 @@ Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wi
 
 #### Analyse einer prozentualen Besteuerung
 
-Wenn die Besteuerung auf Feuerwerk nicht als pauschaler Betrag pro Einheit, sondern als prozentualer Aufschlag auf den Preis erfolgt, würde dies den Verkaufspreis des Feuerwerks in Abhängigkeit vom Basispreis erhöhen. Angenommen, der Steuersatz beträgt $$ t $$ Prozent des Preises. Dann würde der effektive Preis, den die Konsumenten zahlen, $$ P(1 + t) $$ sein, wobei $$ P $$ der Basispreis ohne Steuer ist und $$ t $$ als Dezimalzahl ausgedrückt wird (z.B. bedeutet ein Steuersatz von 20%, dass $$ t = 0.20 $$ beträgt.).
+Wenn die Besteuerung auf Feuerwerk nicht als pauschaler Betrag pro Einheit, sondern als prozentualer Aufschlag auf den Preis erfolgt, würde dies den Verkaufspreis des Feuerwerks in Abhängigkeit vom Basispreis erhöhen. Dieses Konzept findet man sehr häufig bei verschiedenen Arten von Besteuerung. Die Mehrwertsteuer ist ein bekanntes Beispiel für eine prozentuale Besteuerung. 
+
+Angenommen, der Steuersatz beträgt $$ t $$ Prozent des Preises. Dann würde der effektive Preis, den die Konsumenten zahlen, $$ P(1 + t) $$ sein, wobei $$ P $$ der Basispreis ohne Steuer ist und $$ t $$ als Dezimalzahl ausgedrückt wird (z.B. bedeutet ein Steuersatz von 20%, dass $$ t = 0.20 $$ beträgt.).
 
 Für eine lineare Nachfragefunktion ohne Steuer, die durch $$ Q = a - bP $$ dargestellt wird, wobei $$ Q $$ die nachgefragte Menge, $$ P $$ der Preis, $$ a $$ die maximale Nachfragemenge bei einem Preis von 0 und $$ b $$ die Sensitivität der Nachfrage in Bezug auf Preisänderungen ist, würde die Nachfragefunktion mit einer prozentualen Besteuerung wie folgt modifiziert:
 
