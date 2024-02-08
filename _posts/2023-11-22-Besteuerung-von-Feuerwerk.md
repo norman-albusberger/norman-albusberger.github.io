@@ -88,7 +88,7 @@ Ein wesentlicher Nachteil der Nutzung von Steuern zur Internalisierung externer 
 Aber selbst wenn eine Zweckbindung besteht, gibt es keine Garantie dafür, dass die Mittel auf effiziente Weise zur Minderung der externen Effekte eingesetzt werden. Die Wirksamkeit der Verwendung der Steuereinnahmen hängt von der Qualität der staatlichen Planung, Durchführung und Überwachung der entsprechenden Maßnahmen ab.
 
 
- #### Kritische Betrachtung
+#### Kritische Betrachtung
 Die Idee einer Besteuerung zur Internalisierung externer Kosten, insbesondere im Kontext der Feuerwerksnutzung, stößt in der Praxis auf bedeutende Herausforderungen. Die Wirksamkeit einer solchen Steuer hängt entscheidend von der Preiselastizität der Nachfrage ab, die im Falle von Feuerwerken als relativ gering einzustufen ist. Dies bedeutet, dass selbst signifikante Preiserhöhungen durch Steuern möglicherweise keine substanzielle Reduktion der Nachfrage nach sich ziehen. Hinzu kommt, dass Feuerwerke tief in kulturellen und traditionellen Praktiken verwurzelt sind, was ihre Nachfrage zusätzlich preisunelastisch macht. Die Annahme, dass eine Besteuerung allein eine effiziente Lösung zur Adressierung der durch Feuerwerke verursachten externen Effekte darstellt, könnte daher zu optimistisch sein.
 
 #### Fazit
