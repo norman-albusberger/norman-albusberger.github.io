@@ -20,7 +20,7 @@ Im Kontext von Feuerwerken könnte die Nachfrage aus verschiedenen Gründen rela
 - **Gelegentlicher Kauf:** Da Feuerwerke üblicherweise nur einmal jährlich gekauft werden, könnte die Preissensibilität geringer sein als bei Gütern des täglichen Bedarfs.
 - **Sozialer Druck und Gruppendynamik:** In gesellschaftlichen Kontexten, wo der Einsatz von Feuerwerken als Zeichen von Feierlichkeit und Teilhabe gesehen wird, könnte der soziale Druck die Preiselastizität der Nachfrage weiter verringern.
 
-#### Auswirkungen einer Besteuerung
+#### Auswirkungen einer Besteuerung zur Lenkung der Nachfrage
 
 Die Einführung einer Steuer auf Feuerwerke würde den Verkaufspreis erhöhen und könnte dadurch die Nachfrage reduzieren, vorausgesetzt, die Nachfrage ist zumindest in einem gewissen Maße preiselastisch. Der Erfolg dieser Maßnahme hängt von der Höhe der Steuer ab: Eine zu geringe Steuer könnte kaum Auswirkungen haben, während eine zu hohe Steuer als unverhältnismäßig angesehen werden könnte und möglicherweise zu unerwünschten Nebeneffekten wie Schwarzmarktaktivitäten führt.
 
@@ -83,7 +83,7 @@ Diese Form der Besteuerung kann dazu führen, dass die Preissensitivität der Ko
 
 #### Fehlende Zweckbindung
 
-Ein wesentlicher Nachteil der Nutzung von Steuern zur Internalisierung externer Effekte, wie etwa bei der Besteuerung von Feuerwerken, ist die möglicherweise fehlende Zweckbindung der Steuereinnahmen. Steuereinnahmen fließen in den allgemeinen Haushalt und sind nicht automatisch für spezifische Maßnahmen vorgesehen, die die durch die besteuerten Aktivitäten verursachten externen Effekte direkt angehen. Ohne eine gesetzlich festgelegte Zweckbindung könnten die Einnahmen aus einer Steuer auf Feuerwerke beispielsweise nicht gezielt für Umweltschutzmaßnahmen, Gesundheitsvorsorge oder die Reinigung öffentlicher Räume nach Silvester verwendet werden.
+Ein wesentlicher Nachteil der Nutzung von Steuern zur Internalisierung externer Effekte, wie etwa bei der Besteuerung von Feuerwerkskörpern, ist die fehlende Zweckbindung der Steuereinnahmen. Steuereinnahmen fließen in den allgemeinen Haushalt und sind nicht automatisch für spezifische Maßnahmen vorgesehen, die die durch die besteuerten Aktivitäten verursachten externen Effekte direkt angehen. Ohne eine gesetzlich festgelegte Zweckbindung könnten die Einnahmen aus einer Steuer auf Feuerwerke beispielsweise nicht gezielt für Umweltschutzmaßnahmen, Gesundheitsvorsorge oder die Reinigung öffentlicher Räume nach Silvester verwendet werden.
 
 Aber selbst wenn eine Zweckbindung besteht, gibt es keine Garantie dafür, dass die Mittel auf effiziente Weise zur Minderung der externen Effekte eingesetzt werden. Die Wirksamkeit der Verwendung der Steuereinnahmen hängt von der Qualität der staatlichen Planung, Durchführung und Überwachung der entsprechenden Maßnahmen ab.
 
