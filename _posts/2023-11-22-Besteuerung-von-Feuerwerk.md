@@ -77,7 +77,7 @@ In dieser Gleichung:
 
 Diese modifizierte Nachfragefunktion zeigt, dass die nachgefragte Menge $$ Q_T $$ nicht nur vom Basispreis $$ P $$ abhängt, sondern auch vom erhöhten Preis durch die prozentuale Besteuerung. Die Steigung der Nachfragekurve bleibt unverändert, aber die Kurve verschiebt sich nach links, was eine Verringerung der nachgefragten Menge bei jedem Preisniveau bedeutet. Der Grad dieser Verschiebung und die Auswirkungen auf die nachgefragte Menge hängen vom Steuersatz $$ t $$ ab.
 
-![Prozentuale Besteuerung von Feuerwerk](..%2Fassets%2Fimg%2Fblog%2Fbesteuerung-prozentual.png)
+![Prozentuale Besteuerung von Feuerwerk](%2Fassets%2Fimg%2Fblog%2Fbesteuerung-prozentual.png)
 
 Diese Form der Besteuerung kann dazu führen, dass die Preissensitivität der Konsumenten stärker ins Gewicht fällt, da höhere Basispreise durch den prozentualen Aufschlag zu überproportional höheren Endpreisen führen. Im Gegensatz zu einer pauschalen Steuer, die unabhängig vom Preis des Feuerwerks ist, wirkt sich eine prozentuale Steuer stärker auf teurere Feuerwerkskörper aus und könnte somit das Kaufverhalten stärker beeinflussen, insbesondere bei preissensitiven Konsumenten.
 
