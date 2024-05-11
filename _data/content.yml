@@ -243,7 +243,7 @@ skills:
           value: "90"
 
         - label: "Python"
-          value: "50" #0-100 progress in %
+          value: "99" #0-100 progress in %
 
     - type: "default" #skills progress type - default, dotted, circles, list
       title: "Frameworks/Bibliotheken"
@@ -265,6 +265,9 @@ skills:
           value: "80" #0-100 progress in %
 
         - label: "Express Node.js"
+          value: "100" #0-100 progress in %
+
+        - label: "Flask"
           value: "100" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
