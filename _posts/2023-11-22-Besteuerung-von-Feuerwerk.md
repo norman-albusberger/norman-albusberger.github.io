@@ -79,7 +79,9 @@ Diese modifizierte Nachfragefunktion zeigt, dass die nachgefragte Menge $$ Q_T $
 
 ![Prozentuale Besteuerung von Feuerwerk](/assets/img/blog/besteuerung-prozentual.png)
 
-Die Grafik zeigt die Auswirkung einer prozentualen Besteuerung auf die Nachfrage nach Feuerwerk. Die blaue Linie repräsentiert die Nachfragekurve ohne Steuer, während die gestrichelte rote Linie die Nachfragekurve mit einer prozentualen Steuer von 20% darstellt.
+Die Grafik zeigt die Auswirkung einer prozentualen Besteuerung von 20% auf die Nachfrage nach einer Packung Raketen, deren Basispreis beispielsweise 15 € beträgt. Die blaue Linie repräsentiert die Nachfragekurve ohne Steuer, während die gestrichelte rote Linie die Nachfragekurve mit der prozentualen Steuer darstellt. Die grüne gestrichelte Linie markiert den Basispreis von 15 € für eine Packung Raketen.
+
+Man kann erkennen, dass die Einführung der Steuer die Nachfragekurve nach links verschiebt und dreht, was eine Verringerung der nachgefragten Menge bei jedem gegebenen Preisniveau anzeigt. Diese Verschiebung verdeutlicht, dass die prozentuale Besteuerung den effektiven Preis der Raketen erhöht und dadurch die Nachfrage reduziert.
 
 Diese Form der Besteuerung kann dazu führen, dass die Preissensitivität der Konsumenten stärker ins Gewicht fällt, da höhere Basispreise durch den prozentualen Aufschlag zu überproportional höheren Endpreisen führen. Im Gegensatz zu einer pauschalen Steuer, die unabhängig vom Preis des Feuerwerks ist, wirkt sich eine prozentuale Steuer stärker auf teurere Feuerwerkskörper aus und könnte somit das Kaufverhalten stärker beeinflussen, insbesondere bei preissensitiven Konsumenten.
 
