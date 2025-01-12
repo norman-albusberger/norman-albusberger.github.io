@@ -1,7 +1,7 @@
 ---
 title: SonoX - 
 category: Softwareentwicklung
-category_slug: project
+category_slug: software
 type: content
 image: https://raw.githubusercontent.com/norman-albusberger/sonox/refs/heads/main/icons/icon_256.png
 button_url: https://wiki.loxberry.de/plugins/sonox/start
