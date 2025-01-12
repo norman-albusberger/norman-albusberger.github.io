@@ -1,7 +1,7 @@
 ---
 title: MailGPT
 category: Softwareentwicklung
-category_slug: project
+category_slug: software
 type: content
 image: assets/img/clients/mailgpt.png
 button_url: https://github.com/norman-albusberger/MailGPT
