@@ -2,10 +2,10 @@
 layout: page
 title: projekte
 permalink: /projects/
-description: Ausgewählte Projekte und Mandate aus Beratung, Management und Softwareentwicklung.
+description: Selected Innovation Projects — eigene Technology Ventures aus KI, Automation und Product Engineering. Belege dafür, dass ich Technologie nicht nur verantworte, sondern beherrsche.
 nav: true
 nav_order: 3
-display_categories: [Beratung &amp; Management, Softwareentwicklung]
+display_categories: [Artificial Intelligence, Product Engineering]
 horizontal: false
 ---
 

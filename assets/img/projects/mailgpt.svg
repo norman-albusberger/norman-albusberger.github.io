@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" font-family="Helvetica,Arial,sans-serif">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1e1b4b"/><stop offset="1" stop-color="#6d28d9"/>
+  </linearGradient></defs>
+  <rect width="600" height="340" fill="url(#g)"/>
+  <rect x="0" y="0" width="8" height="340" fill="#c4b5fd"/>
+  <text x="40" y="150" font-size="46" font-weight="700" fill="#ffffff">MailGPT</text>
+  <text x="40" y="188" font-size="20" fill="#ffffff" fill-opacity="0.85">Generative-AI E-Mail-Automation</text>
+  <g font-size="15" fill="#ffffff" fill-opacity="0.95">
+    <rect x="40"  y="250" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="60"  y="272">Generative AI</text>
+    <rect x="205" y="250" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="225" y="272">OpenAI API</text>
+    <rect x="370" y="250" width="180" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="390" y="272">macOS</text>
+  </g>
+</svg>

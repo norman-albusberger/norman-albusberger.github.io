@@ -1,10 +1,15 @@
 cv:
   name: Norman Albusberger
-  label: Interim CTO · IT-Generalist · Volkswirt
+  label: Technology Executive · CTO · VP Engineering
   email: norman.albusberger@icloud.com
-  location: Berlin/Brandenburg, Deutschland
+  location: Berlin / Brandenburg, Deutschland
   image: ""
-  summary: IT-Generalist und Volkswirt mit umfangreicher Erfahrung in Unternehmensführung und strategischem IT-Management sowie über 20 Jahren Hands-on-Erfahrung in der Softwareentwicklung.
+  summary: >
+    Technology Executive mit über 25 Jahren Erfahrung an der Schnittstelle von Technologie, Führung und
+    Unternehmertum. Gründer und CTO eines von null auf 5,5 Mio. € Jahresumsatz aufgebauten Unternehmens,
+    heute verantwortlich für eine rund 30-köpfige Delivery-Organisation im Daimler-Truck-Umfeld mit
+    Budgetverantwortung bis 1,2 Mio. €. Verbindet Softwarearchitektur, Enterprise Software, Cloud/SaaS und
+    angewandte KI mit P&L-Verantwortung, Organisationsentwicklung und wirtschaftlichem Denken.
 
   social_networks:
     - network: GitHub
@@ -14,94 +19,101 @@ cv:
 
   sections:
     Experience:
+      - company: emagine GmbH · Daimler-Truck-Umfeld
+        position: Cluster Lead — Delivery- & Budgetverantwortung
+        location: Berlin / Remote
+        start_date: 2024
+        end_date: heute
+        summary: >
+          Technologische und wirtschaftliche Gesamtverantwortung für eine rund 30-köpfige Delivery-Organisation
+          im Umfeld von Daimler Truck.
+        highlights:
+          - Gesamtverantwortung für ~30 Spezialisten (Java, iOS, Autoline-Modulexperten, Softwareentwicklung, Testautomatisierung/Ranorex); disziplinarische Führung von 12 Mitarbeitenden.
+          - Budgetverantwortung bis 1,2 Mio. € inklusive Angebots- und Ausschreibungsmanagement sowie Vertragsgestaltung für Managed-Services-Mandate.
+          - Verantwortung für Change- und Release-Management sowie die kontinuierliche Transformation der Delivery-Organisation.
+          - Kundenmanagement auf Entscheiderebene und Steuerung der Managed-Services-Leistungserbringung.
+
       - company: Bundesdruckerei Gruppe
-        position: Migrationsmanager
+        position: Lead — Plattform- & Prozess-Transformation
         location: Berlin
         start_date: 2023
-        end_date: heute
-        summary: Leitung der Migration zu einer modernen ITSM-Plattform im Customer Service.
+        end_date: 2024
+        summary: >
+          Leitung der Transformation auf eine moderne ITSM-Plattform und Modernisierung der zugehörigen
+          Service- und Betriebsprozesse in einem regulierten Umfeld.
+        highlights:
+          - Verantwortung für die Migration auf eine moderne ITSM-Plattform und die Neugestaltung der betroffenen Prozesse.
+          - Steuerung von Stakeholdern über Fachbereiche hinweg; Einführung standardisierter, skalierbarer Abläufe.
 
-      - company: Hagebau Gruppe – Digital Seals GmbH (Projekt „Hagedoo")
-        position: Senior Technical Project Lead
+      - company: Hagebau Gruppe · Digital Seals GmbH (Plattform „Hagedoo")
+        position: Technische Gesamtleitung — Head of Engineering
+        location: Deutschland
         start_date: 2022
         end_date: 2023
-        summary: Technische Leitung des Projekts, Vorbereitung technischer Entscheidungen und Weiterentwicklung der Architektur.
+        summary: >
+          Technische Gesamtverantwortung für die Handwerker-Plattform „Hagedoo" — von Architektur­entscheidungen
+          bis zur Führung und Weiterentwicklung des Engineering-Teams.
         highlights:
-          - Ressourcenmanagement und IT-Projektmanagement
-          - Organisation und Entwicklung des Entwicklerteams
-          - Einführung agiler Methoden und Rituale im Projektteam
+          - Verantwortung für Architektur, technische Roadmap und Qualität der Plattform (Web, iOS, Android).
+          - Aufbau und Entwicklung des Engineering-Teams; Einführung agiler Methoden und Rituale.
+          - Identifikation und Steuerung technischer Risiken; Optimierung von Prozessen und Time-to-Market.
 
-      - company: Fatchip GmbH
-        position: Senior Consultant Engineering
-        start_date: 2021
-        end_date: 2022
-        summary: Softwareentwicklung und Beratung in verschiedenen E-Commerce-Projekten mit unterschiedlichen Technologien.
-
-      - company: Babymarkt GmbH
-        position: Frontend-Engineering
-        start_date: 2020
-        end_date: 2021
-        summary: Unterstützung des Frontend-Teams bei der Softwareentwicklung.
-
-      - company: Solfas Technologie GmbH
-        position: Management Consultant
+      - company: Strategische Technologieberatung (u. a. Solfas Technologie GmbH)
+        position: Strategischer Technologie-Advisor
+        location: Deutschland
         start_date: 2016
         end_date: 2022
-        summary: CEO-Advisory und Coaching, strategisches Marketing, Produkt-Portfolio-Analyse, Coaching in agilen Methoden, Requirements Engineering, Scrum Master, Softwareentwicklung.
+        summary: >
+          Beratung von Geschäftsführungen und CEOs zu Technologie- und Produktstrategie, Digitalisierung und
+          dem Aufbau leistungsfähiger, agiler Organisationen.
+        highlights:
+          - CEO-Advisory zu Technologiestrategie, Produkt-Portfolio und Digitalisierung.
+          - Konzeption und Entwicklung von Steuerungs- und Enterprise-Software für industrielle Test- und Messsysteme.
+          - Aufbau agiler Organisationsstrukturen und Begleitung technischer Transformationsvorhaben.
 
-      - company: PRofiFLITZER GmbH
-        position: Executive Partner, CTO
+      - company: FLZR GmbH
+        position: Gründer, Geschäftsführer & CTO
+        location: Deutschland
         start_date: 2006
         end_date: 2016
-        summary: Unternehmensführung und Leitung der technischen Entwicklung.
+        summary: >
+          Gründung und Aufbau eines technologiegetriebenen Unternehmens — von der Idee bis zu 5,5 Mio. €
+          Jahresumsatz. Volle Verantwortung für Technologie, Produkt, Strategie und Vertrieb.
+        highlights:
+          - Unternehmen von null auf 36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz aufgebaut.
+          - Gesamtverantwortung für Unternehmensstrategie, Technologie, Softwarearchitektur und Produktentwicklung.
+          - Aufbau von Vertrieb, Business Development und Marketing; volle P&L-Verantwortung als Geschäftsführer.
 
     Education:
       - institution: Technische Universität Berlin
         location: Berlin
-        area: Volkswirtschaftslehre
-        studyType: Diplom
+        area: Volkswirtschaftslehre — Innovations- & Informationsgüterökonomie, Strategisches IT-Management
+        studyType: Diplom-Volkswirt
         end_date: 2015
-        summary: Schwerpunkt Netzwerk- und Informationsgüterökonomik sowie Infrastruktur-Management.
-
-      - institution: Berliner Lokalnachrichten
-        location: Berlin
-        area: Verlagsgeschäft
-        studyType: Praktikum (6 Monate)
-        end_date: 2000
-        summary: Redakteur im Verlagsgeschäft.
-
-      - institution: Bundeswehr
-        location: Schleswig-Holstein
-        area: Militärdienst
-        studyType: Wehrdienst
-        start_date: 1998
-        end_date: 1999
-        summary: Hauptquartier der alliierten Landstreitkräfte Schleswig-Holstein und Jütland.
+        summary: >
+          Schwerpunkte Innovationsökonomie, Informationsgüterökonomie und strategisches IT-Management —
+          die ökonomische Grundlage für technologische Entscheidungen mit Blick auf Wertschöpfung und Markt.
 
     Skills:
-      - name: Programmiersprachen
+      - name: Leadership & Management
+        icon: fa-solid fa-users-gear
+        keywords: "P&L- und Budgetverantwortung, disziplinarische Führung, Organisationsentwicklung, Change- & Release-Management, Angebots- & Vertragsmanagement, Managed Services"
+
+      - name: Künstliche Intelligenz & Machine Learning
+        icon: fa-solid fa-robot
+        keywords: "Generative AI (GPT, Claude), Retrieval-Augmented Generation (RAG), Agentic AI, Fine-Tuning & Modelltraining, TensorFlow, PyTorch, scikit-learn, KI-gestützte Softwareentwicklung, Business Automation"
+
+      - name: Softwarearchitektur & Engineering
+        icon: fa-solid fa-sitemap
+        keywords: "Enterprise Software, Softwarearchitektur, Cloud, SaaS, Plattform Engineering, REST/GraphQL/OpenAPI, verteilte Systeme"
+
+      - name: Technologien
         icon: fa-solid fa-code
-        keywords: "PHP, JavaScript, C#, Python"
+        keywords: "Python, TypeScript/JavaScript, PHP, C#, React, Node.js, Symfony, Docker, SQL & NoSQL"
 
-      - name: Frameworks & Bibliotheken
-        icon: fa-solid fa-layer-group
-        keywords: "Symfony, Node.js/Express, Flask, .NET, Bootstrap, jQuery, Mongoose"
-
-      - name: APIs
-        icon: fa-solid fa-plug
-        keywords: "REST, GraphQL, OpenAPI/Swagger"
-
-      - name: Datenbanken
-        icon: fa-solid fa-database
-        keywords: "MySQL, MongoDB, MS-SQL-Server, SQLite"
-
-      - name: Markup & Templating
-        icon: fa-solid fa-file-code
-        keywords: "HTML5, CSS/SCSS, Twig, Handlebars, MJML, LaTeX, YAML/JSON, XAML"
-
-      - name: Tools & Infrastruktur
-        icon: fa-solid fa-screwdriver-wrench
-        keywords: "Git, Docker, Webpack, npm, VMware, Debian/Ubuntu"
+      - name: Methoden & Transformation
+        icon: fa-solid fa-arrows-spin
+        keywords: "Agile Transformation, Scrum, Digitalisierung, Produktentwicklung, Requirements Engineering"
 
     Languages:
       - name: Deutsch
