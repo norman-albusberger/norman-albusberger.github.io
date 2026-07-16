@@ -2,7 +2,7 @@
 layout: page
 title: projekte
 permalink: /projects/
-description: Selected Innovation Projects — eigene Technology Ventures aus KI, Automation und Product Engineering. Belege dafür, dass ich Technologie nicht nur verantworte, sondern beherrsche.
+description: Ausgewählte eigene Technology Ventures aus Künstlicher Intelligenz, Automation und Product Engineering.
 nav: true
 nav_order: 3
 display_categories: [Artificial Intelligence, Product Engineering]

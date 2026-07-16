@@ -9,7 +9,7 @@ last_name: Albusberger
 contact_note: >
   Am schnellsten erreichst du mich per E-Mail oder direkt über einen Kalender-Termin.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Norman Albusberger – Technology Executive, CTO und VP Engineering. Unternehmer, Softwarearchitekt und KI-Praktiker mit über 25 Jahren Erfahrung in Enterprise Software, Cloud, Digitalisierung, Führung und Unternehmensaufbau.
+  Norman Albusberger: Technology Executive, CTO und VP Engineering. Unternehmer, Softwarearchitekt und KI-Praktiker mit über 25 Jahren Erfahrung in Enterprise Software, Cloud, Digitalisierung, Führung und Unternehmensaufbau.
 footer_text: >
   Erstellt mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> und dem <a href="https://github.com/alshedivat/al-folio">al-folio</a>-Theme.
   Gehostet auf <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

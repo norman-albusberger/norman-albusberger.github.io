@@ -23,7 +23,7 @@
           {% assign startDate = start_date | split: '-' | first %}
           {% assign endDate = end_date | split: '-' | first %}
           {% if start_date != '' and end_date != '' %}
-            {% assign date = startDate | append: ' – ' | append: endDate %}
+            {% assign date = startDate | append: ' - ' | append: endDate %}
           {% elsif end_date != '' %}
             {% assign date = endDate %}
           {% elsif start_date != '' %}

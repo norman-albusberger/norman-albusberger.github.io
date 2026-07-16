@@ -7,9 +7,9 @@ cv:
   summary: >
     Technology Executive mit über 25 Jahren Erfahrung an der Schnittstelle von Technologie, Führung und
     Unternehmertum. Gründer und CTO eines von null auf 5,5 Mio. € Jahresumsatz aufgebauten Unternehmens,
-    heute verantwortlich für eine rund 30-köpfige Delivery-Organisation im Daimler-Truck-Umfeld mit
-    Budgetverantwortung bis 1,2 Mio. €. Verbindet Softwarearchitektur, Enterprise Software, Cloud/SaaS und
-    angewandte KI mit P&L-Verantwortung, Organisationsentwicklung und wirtschaftlichem Denken.
+    heute als Cluster Lead verantwortlich für die Autoline-Module-Fachexperten innerhalb eines rund
+    30-köpfigen Automotive Managed Service im Daimler-Truck-Umfeld. Verbindet Softwarearchitektur, Enterprise
+    Software, Cloud/SaaS und angewandte KI mit P&L-Verantwortung, Organisationsentwicklung und wirtschaftlichem Denken.
 
   social_networks:
     - network: GitHub
@@ -19,22 +19,22 @@ cv:
 
   sections:
     Experience:
-      - company: emagine GmbH · Daimler-Truck-Umfeld
-        position: Cluster Lead — Delivery- & Budgetverantwortung
+      - company: emagine GmbH · Automotive Managed Service (Daimler-Truck-Umfeld)
+        position: Cluster Lead Autoline-Module · Change- und Release-Management
         location: Berlin / Remote
         start_date: 2024
         end_date: heute
         summary: >
-          Technologische und wirtschaftliche Gesamtverantwortung für eine rund 30-köpfige Delivery-Organisation
-          im Umfeld von Daimler Truck.
+          Fachliche Leitung der Autoline-Module-Fachexperten sowie Verantwortung für Change- und
+          Release-Management innerhalb des Automotive Managed Service im Daimler-Truck-Umfeld.
         highlights:
-          - Gesamtverantwortung für ~30 Spezialisten (Java, iOS, Autoline-Modulexperten, Softwareentwicklung, Testautomatisierung/Ranorex); disziplinarische Führung von 12 Mitarbeitenden.
-          - Budgetverantwortung bis 1,2 Mio. € inklusive Angebots- und Ausschreibungsmanagement sowie Vertragsgestaltung für Managed-Services-Mandate.
-          - Verantwortung für Change- und Release-Management sowie die kontinuierliche Transformation der Delivery-Organisation.
-          - Kundenmanagement auf Entscheiderebene und Steuerung der Managed-Services-Leistungserbringung.
+          - Fachliche Führung von rund 11 Autoline-Module-Fachexperten innerhalb eines rund 30-köpfigen Automotive Managed Service (die übrigen Rollen entfallen auf den Autoline-Support Level 1/2).
+          - Verantwortung für die Autoline-Module sowie das Change- und Release-Management der Serviceorganisation.
+          - Sicherstellung von Liefer- und Servicequalität im Managed-Service-Betrieb; Kundenmanagement auf Fachebene.
+          - Budgetverantwortung bis 1,2 Mio. € im Verantwortungsbereich.
 
       - company: Bundesdruckerei Gruppe
-        position: Lead — Plattform- & Prozess-Transformation
+        position: Lead Plattform- und Prozess-Transformation
         location: Berlin
         start_date: 2023
         end_date: 2024
@@ -46,7 +46,7 @@ cv:
           - Steuerung von Stakeholdern über Fachbereiche hinweg; Einführung standardisierter, skalierbarer Abläufe.
 
       - company: Hagebau Gruppe · Digital Seals GmbH (Plattform „Hagedoo")
-        position: Technische Gesamtleitung — Head of Engineering
+        position: Technische Gesamtleitung (Head of Engineering)
         location: Deutschland
         start_date: 2022
         end_date: 2023
