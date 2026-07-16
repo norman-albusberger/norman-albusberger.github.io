@@ -1,0 +1,8 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/Norman_Albusberger_CV_en.pdf # path to your CV PDF file
+email: norman.albusberger@icloud.com # your email address
+github_username: norman-albusberger # your GitHub username
+linkedin_username: norman-albusberger-186a1562 # your LinkedIn username
+rss_icon: true # comment this line to hide the RSS icon

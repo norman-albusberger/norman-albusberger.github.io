@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Affentheater - Effektiveres Management von IT Fachkräften und Ingenieuren"
+title: "Affentheater – Effektiveres Management von IT-Fachkräften und Ingenieuren"
 date: 2023-04-04
-category:
-  - IT-Management
-author: Norman Albusberger
+description: Warum intrinsische Motivation der Schlüssel zum Erfolg ist – illustriert an einem Experiment mit Affen.
 tags: IT-Management
+categories: IT-Management
+related_posts: false
 ---
 
 In seinem Buch "Drive" erklärt Daniel H. Pink, dass intrinsische Motivation der Schlüssel zum Erfolg ist und dass äußere

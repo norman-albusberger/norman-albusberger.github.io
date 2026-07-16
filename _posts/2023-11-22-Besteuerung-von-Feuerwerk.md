@@ -2,10 +2,10 @@
 layout: post
 title: "Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage"
 date: 2023-11-22
-category:
-  -Economics
-author: Norman Albusberger
+description: Wie wirksam ist eine Feuerwerkssteuer? Eine Analyse über die Preiselastizität der Nachfrage.
 tags: Economics
+categories: Economics
+related_posts: false
 ---
 
 Die Einführung einer Steuer auf Feuerwerke ist eine mögliche Maßnahme, um die negativen externen Effekte, die durch deren Nutzung entstehen, zu internalisieren. Eine solche Steuer würde den Preis von Feuerwerkskörpern erhöhen, mit dem Ziel, die Nachfrage zu reduzieren und die sozialen Kosten, die durch Umweltverschmutzung, Lärmbelästigung, Sicherheitsrisiken und Reinigungsaufwand entstehen, besser widerzuspiegeln. Die Wirksamkeit dieser Maßnahme hängt jedoch stark von der Preiselastizität der Nachfrage nach Feuerwerken ab.
@@ -51,7 +51,7 @@ Wenn wir eine Steuer von $$  T = 50 $$  (Einheiten) annehmen, würde die neue Na
 $$  Q_T = 500 - 0.1(P + 50) $$ 
 
 
-![Nachfrage nach Feuerwerk](/assets%2Fimg%2Fblog%2Fnachfrage-nach-feuerwerk.png))
+![Nachfrage nach Feuerwerk](/assets/img/blog/nachfrage-nach-feuerwerk.png)
 
 Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Die Fläche zwischen beiden Nachfragefunktionen stellt den Steuereffekt dar.
 

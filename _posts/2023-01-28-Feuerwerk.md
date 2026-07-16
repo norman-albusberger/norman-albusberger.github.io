@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Feuerwerkskörper und Marktversagen: Eine Analyse der externen Effekte von Sylvesterfeuerwerk in Deutschland"
+title: "Feuerwerkskörper und Marktversagen: Eine Analyse der externen Effekte von Silvesterfeuerwerk in Deutschland"
 date: 2023-01-28
-image: /assets/img/blog/Berlin-after-new-years-eve.jpg
-category:
-  - Economics
-author: Norman Albusberger
+description: Silvesterfeuerwerk als Beispiel für Marktversagen durch negative externe Effekte.
 tags: Economics
+categories: Economics
+thumbnail: assets/img/blog/Berlin-after-new-years-eve.jpg
+related_posts: false
 ---
+
+{% include figure.liquid path="assets/img/blog/Berlin-after-new-years-eve.jpg" class="img-fluid rounded z-depth-1" %}
 
 Die Nutzung von Feuerwerken während der Silvesterfeierlichkeiten ist eine tief verwurzelte Tradition in Deutschland, die von vielen als Ausdruck von Freude und Hoffnung auf das neue Jahr angesehen wird. Trotz ihrer Beliebtheit wirft die Praxis der Feuerwerksnutzung jedoch ernsthafte Fragen im Hinblick auf Umwelt, Gesundheit und Sicherheit auf:
 

@@ -1,0 +1,112 @@
+cv:
+  name: Norman Albusberger
+  label: Interim CTO · IT-Generalist · Volkswirt
+  email: norman.albusberger@icloud.com
+  location: Berlin/Brandenburg, Deutschland
+  image: ""
+  summary: IT-Generalist und Volkswirt mit umfangreicher Erfahrung in Unternehmensführung und strategischem IT-Management sowie über 20 Jahren Hands-on-Erfahrung in der Softwareentwicklung.
+
+  social_networks:
+    - network: GitHub
+      username: norman-albusberger
+    - network: LinkedIn
+      username: norman-albusberger-186a1562
+
+  sections:
+    Experience:
+      - company: Bundesdruckerei Gruppe
+        position: Migrationsmanager
+        location: Berlin
+        start_date: 2023
+        end_date: heute
+        summary: Leitung der Migration zu einer modernen ITSM-Plattform im Customer Service.
+
+      - company: Hagebau Gruppe – Digital Seals GmbH (Projekt „Hagedoo")
+        position: Senior Technical Project Lead
+        start_date: 2022
+        end_date: 2023
+        summary: Technische Leitung des Projekts, Vorbereitung technischer Entscheidungen und Weiterentwicklung der Architektur.
+        highlights:
+          - Ressourcenmanagement und IT-Projektmanagement
+          - Organisation und Entwicklung des Entwicklerteams
+          - Einführung agiler Methoden und Rituale im Projektteam
+
+      - company: Fatchip GmbH
+        position: Senior Consultant Engineering
+        start_date: 2021
+        end_date: 2022
+        summary: Softwareentwicklung und Beratung in verschiedenen E-Commerce-Projekten mit unterschiedlichen Technologien.
+
+      - company: Babymarkt GmbH
+        position: Frontend-Engineering
+        start_date: 2020
+        end_date: 2021
+        summary: Unterstützung des Frontend-Teams bei der Softwareentwicklung.
+
+      - company: Solfas Technologie GmbH
+        position: Management Consultant
+        start_date: 2016
+        end_date: 2022
+        summary: CEO-Advisory und Coaching, strategisches Marketing, Produkt-Portfolio-Analyse, Coaching in agilen Methoden, Requirements Engineering, Scrum Master, Softwareentwicklung.
+
+      - company: PRofiFLITZER GmbH
+        position: Executive Partner, CTO
+        start_date: 2006
+        end_date: 2016
+        summary: Unternehmensführung und Leitung der technischen Entwicklung.
+
+    Education:
+      - institution: Technische Universität Berlin
+        location: Berlin
+        area: Volkswirtschaftslehre
+        studyType: Diplom
+        end_date: 2015
+        summary: Schwerpunkt Netzwerk- und Informationsgüterökonomik sowie Infrastruktur-Management.
+
+      - institution: Berliner Lokalnachrichten
+        location: Berlin
+        area: Verlagsgeschäft
+        studyType: Praktikum (6 Monate)
+        end_date: 2000
+        summary: Redakteur im Verlagsgeschäft.
+
+      - institution: Bundeswehr
+        location: Schleswig-Holstein
+        area: Militärdienst
+        studyType: Wehrdienst
+        start_date: 1998
+        end_date: 1999
+        summary: Hauptquartier der alliierten Landstreitkräfte Schleswig-Holstein und Jütland.
+
+    Skills:
+      - name: Programmiersprachen
+        icon: fa-solid fa-code
+        keywords: "PHP, JavaScript, C#, Python"
+
+      - name: Frameworks & Bibliotheken
+        icon: fa-solid fa-layer-group
+        keywords: "Symfony, Node.js/Express, Flask, .NET, Bootstrap, jQuery, Mongoose"
+
+      - name: APIs
+        icon: fa-solid fa-plug
+        keywords: "REST, GraphQL, OpenAPI/Swagger"
+
+      - name: Datenbanken
+        icon: fa-solid fa-database
+        keywords: "MySQL, MongoDB, MS-SQL-Server, SQLite"
+
+      - name: Markup & Templating
+        icon: fa-solid fa-file-code
+        keywords: "HTML5, CSS/SCSS, Twig, Handlebars, MJML, LaTeX, YAML/JSON, XAML"
+
+      - name: Tools & Infrastruktur
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, Docker, Webpack, npm, VMware, Debian/Ubuntu"
+
+    Languages:
+      - name: Deutsch
+        summary: "Muttersprache"
+      - name: Englisch
+        summary: "Verhandlungssicher"
+      - name: Russisch
+        summary: "Grundkenntnisse"
