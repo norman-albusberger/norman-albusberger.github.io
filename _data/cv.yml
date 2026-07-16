@@ -51,7 +51,7 @@ cv:
         start_date: 2022
         end_date: 2023
         summary: >
-          Technische Gesamtverantwortung für die Handwerker-Plattform „Hagedoo" — von Architektur­entscheidungen
+          Technische Gesamtverantwortung für die Handwerker-Plattform „Hagedoo", von Architektur­entscheidungen
           bis zur Führung und Weiterentwicklung des Engineering-Teams.
         highlights:
           - Verantwortung für Architektur, technische Roadmap und Qualität der Plattform (Web, iOS, Android).
@@ -77,7 +77,7 @@ cv:
         start_date: 2006
         end_date: 2016
         summary: >
-          Gründung und Aufbau eines technologiegetriebenen Unternehmens — von der Idee bis zu 5,5 Mio. €
+          Gründung und Aufbau eines technologiegetriebenen Unternehmens, von der Idee bis zu 5,5 Mio. €
           Jahresumsatz. Volle Verantwortung für Technologie, Produkt, Strategie und Vertrieb.
         highlights:
           - Unternehmen von null auf 36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz aufgebaut.
@@ -87,11 +87,11 @@ cv:
     Education:
       - institution: Technische Universität Berlin
         location: Berlin
-        area: Volkswirtschaftslehre — Innovations- & Informationsgüterökonomie, Strategisches IT-Management
+        area: Volkswirtschaftslehre mit Schwerpunkt Innovations- und Informationsgüterökonomie, Strategisches IT-Management
         studyType: Diplom-Volkswirt
         end_date: 2015
         summary: >
-          Schwerpunkte Innovationsökonomie, Informationsgüterökonomie und strategisches IT-Management —
+          Schwerpunkte Innovationsökonomie, Informationsgüterökonomie und strategisches IT-Management:
           die ökonomische Grundlage für technologische Entscheidungen mit Blick auf Wertschöpfung und Markt.
 
     Skills:
