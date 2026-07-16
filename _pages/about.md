@@ -41,20 +41,20 @@ Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und
 
 <div class="row">
   <div class="col-md-6 mb-3">
-    <h5>Unternehmer mit P&amp;L-Verantwortung</h5>
-    <p>Als Gründer, Geschäftsführer und CTO die <strong>FLZR GmbH</strong> von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit voller Verantwortung für Technologie, Produkt, Strategie und Vertrieb.</p>
+    <h5>Unternehmensaufbau und P&amp;L</h5>
+    <p>Als Gründer, Geschäftsführer und CTO die <strong>FLZR GmbH</strong> von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit Verantwortung für Technologie, Produkt, Strategie und Vertrieb.</p>
   </div>
   <div class="col-md-6 mb-3">
     <h5>Technologische Führungsverantwortung</h5>
-    <p>Softwarearchitektur, Enterprise Software, Cloud, SaaS und Plattformen. Aktuell leite ich als Cluster Lead rund <strong>11 Autoline-Module-Fachexperten</strong> innerhalb eines rund 30-köpfigen Automotive Managed Service im <strong>Daimler-Truck-Umfeld</strong>.</p>
+    <p>Verantwortung für Architektur, technische Roadmap und Qualität von Plattform- und Enterprise-Software (Web, iOS, Android, Cloud/SaaS). Aktuell als <strong>Cluster Lead</strong> rund <strong>11 Autoline-Module-Fachexperten</strong> innerhalb eines rund 30-köpfigen Automotive Managed Service im <strong>Daimler-Truck-Umfeld</strong>.</p>
   </div>
   <div class="col-md-6 mb-3">
-    <h5>KI als Kernkompetenz</h5>
-    <p>Praktische Erfahrung mit Generative AI, <strong>RAG, Agentic AI und Fine-Tuning</strong> (TensorFlow, PyTorch, scikit-learn) sowie KI-gestützter Softwareentwicklung und Business Automation.</p>
+    <h5>Künstliche Intelligenz in Produktivsystemen</h5>
+    <p>Eigene KI-Systeme bis zur Produktionsreife gebaut: Echtzeit-Gesichtserkennung mit Anti-Spoofing, lernende Beleg- und Zahlungszuordnung im laufenden Buchhaltungsbetrieb, GPT-Integration in bestehende Workflows. <strong>Fine-Tuning und Modelltraining</strong> mit TensorFlow, PyTorch und scikit-learn, dazu <strong>RAG und Agentic AI</strong>.</p>
   </div>
   <div class="col-md-6 mb-3">
     <h5>Führung und Transformation</h5>
-    <p>Disziplinarische und fachliche Führung, Agile Transformation, Change- und Release-Management, Organisationsentwicklung. Ich baue Teams auf, entwickle Menschen und mache Technologieorganisationen leistungs- und lieferfähig.</p>
+    <p>Engineering-Team der Handwerkerplattform <strong>Hagedoo</strong> aufgebaut und agile Arbeitsweisen eingeführt. Bei der <strong>Bundesdruckerei</strong> die Transformation auf eine moderne ITSM-Plattform geleitet. Heute Verantwortung für <strong>Change- und Release-Management</strong> im Automotive Managed Service.</p>
   </div>
 </div>
 
