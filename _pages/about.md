@@ -2,7 +2,7 @@
 layout: about
 title: profil
 permalink: /
-subtitle: Technology Executive · CTO · VP Engineering. Unternehmer, Softwarearchitekt und KI-Praktiker in einer Person.
+subtitle: Technology Executive · CTO · VP Engineering. Unternehmer, Softwarearchitekt, KI-Praktiker.
 
 profile:
   align: right
@@ -33,9 +33,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ich übernehme Technologie dort, wo sie über den Erfolg von Unternehmen entscheidet: als **Gründer**, als **Geschäftsführer** und als **technischer Kopf** anspruchsvoller Software- und Delivery-Organisationen. In über **25 Jahren** habe ich Software entwickelt, Produkte auf den Markt gebracht, ein Unternehmen **von null auf 5,5 Mio. € Jahresumsatz** aufgebaut und Organisationen technologisch wie kulturell transformiert.
+Seit über **25 Jahren** verantworte ich Technologie: als **Gründer, Geschäftsführer und CTO** eines eigenen Unternehmens, als technischer Leiter von Produkt- und Engineering-Organisationen und aktuell als **Cluster Lead** im Automotive Managed Service im **Daimler-Truck-Umfeld**.
 
-Diese Verbindung aus **Unternehmertum, Softwarearchitektur, künstlicher Intelligenz und Führung** ist selten, und genau sie brauchen Unternehmen, die Technologie zum Wettbewerbsvorteil machen wollen. Als **Diplom-Volkswirt (TU Berlin)** mit Schwerpunkt Innovations- und Informationsgüterökonomie denke ich Technologie immer vom wirtschaftlichen Ergebnis her: Ich verbinde Enterprise Software, Cloud und SaaS mit Strategie, P&L-Verantwortung und Organisationsentwicklung.
+Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Produkt, Strategie und Vertrieb verantwortet. Als **Diplom-Volkswirt (TU Berlin**, Schwerpunkt Innovations- und Informationsgüterökonomie**)** messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis.
 
 ## Profil im Überblick
 
