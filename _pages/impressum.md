@@ -9,19 +9,14 @@ description: Angaben gemäß § 5 DDG.
 ## Angaben gemäß § 5 DDG
 
 Norman Albusberger
-[STRASSE UND HAUSNUMMER: BITTE EINTRAGEN]
-[PLZ UND ORT: BITTE EINTRAGEN]
+Albrecht-Dürer Straße 64
+15827 Blankenfelde-Mahlow
 Deutschland
 
 ## Kontakt
 
+Telefon: [+49 176 57912348](tel:+4917657912348)
 E-Mail: [norman.albusberger@icloud.com](mailto:norman.albusberger@icloud.com)
-Telefon: [TELEFONNUMMER: BITTE EINTRAGEN ODER ZEILE ENTFERNEN]
-
-## Umsatzsteuer-Identifikationsnummer
-
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-[USt-IdNr.: BITTE EINTRAGEN ODER ABSCHNITT ENTFERNEN]
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
