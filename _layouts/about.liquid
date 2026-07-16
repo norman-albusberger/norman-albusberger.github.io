@@ -67,7 +67,25 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        {%- comment -%}
+          jekyll-socials leitet die title-Attribute aus den YAML-Schluesselnamen ab
+          ("Cv pdf", "Github username", ...). Hier auf sprechende Texte korrigiert.
+        {%- endcomment -%}
+        {%- capture social_html -%}{% social_links %}{%- endcapture -%}
+        <div class="contact-icons">
+          {{- social_html
+            | replace: "title='Cv pdf'", "title='Lebenslauf als PDF'"
+            | replace: "title='Email'", "title='E-Mail schreiben'"
+            | replace: "title='Github username'", "title='GitHub-Profil'"
+            | replace: "title='Linkedin username'", "title='LinkedIn-Profil'"
+            | replace: "title='Rss icon'", "title='RSS-Feed'"
+            | replace: 'title="Cv pdf"', 'title="Lebenslauf als PDF"'
+            | replace: 'title="Email"', 'title="E-Mail schreiben"'
+            | replace: 'title="Github username"', 'title="GitHub-Profil"'
+            | replace: 'title="Linkedin username"', 'title="LinkedIn-Profil"'
+            | replace: 'title="Rss icon"', 'title="RSS-Feed"'
+          -}}
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
