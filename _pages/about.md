@@ -35,14 +35,14 @@ latest_posts:
 
 Seit über **25 Jahren** verantworte ich Technologie: als **Gründer, Geschäftsführer und CTO** eines eigenen Unternehmens, als technischer Leiter von Produkt- und Engineering-Organisationen und aktuell als **Cluster Lead** im Automotive Managed Service im **Daimler-Truck-Umfeld**.
 
-Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Produkt, Strategie und Vertrieb verantwortet. Als **Diplom-Volkswirt (TU Berlin**, Schwerpunkt Innovations- und Informationsgüterökonomie**)** messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis.
+Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Strategie und Services verantwortet. Als **Diplom-Volkswirt (TU Berlin**, Schwerpunkt Innovations- und Informationsgüterökonomie**)** messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis.
 
 ## Profil im Überblick
 
 <div class="row">
   <div class="col-md-6 mb-3">
-    <h5>Unternehmensaufbau und P&amp;L</h5>
-    <p>Als Gründer, Geschäftsführer und CTO die <strong>FLZR GmbH</strong> von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit Verantwortung für Technologie, Produkt, Strategie und Vertrieb.</p>
+    <h5>Unternehmen aufgebaut und geführt</h5>
+    <p>Als Gründer, Geschäftsführer und CTO die <strong>FLZR GmbH</strong> von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit Verantwortung für Technologie, Strategie und Services.</p>
   </div>
   <div class="col-md-6 mb-3">
     <h5>Technologische Führungsverantwortung</h5>
@@ -57,5 +57,3 @@ Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und
     <p>Engineering-Team der Handwerkerplattform <strong>Hagedoo</strong> aufgebaut und agile Arbeitsweisen eingeführt. Bei der <strong>Bundesdruckerei</strong> die Transformation auf eine moderne ITSM-Plattform geleitet. Heute Verantwortung für <strong>Change- und Release-Management</strong> im Automotive Managed Service.</p>
   </div>
 </div>
-
-Für die nächste Rolle suche ich **technologische Gesamtverantwortung** als **Director Technology, VP Engineering oder CTO**, in einem Unternehmen, das Software, Daten und KI zum Kern seiner Wertschöpfung macht.
