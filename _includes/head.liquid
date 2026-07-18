@@ -48,6 +48,13 @@
 {% if site.plugins contains 'al_icons' %}
   {% include plugins/al_icons_styles.liquid %}
 {% endif %}
+{% comment %}
+  FontAwesome wird lokal ausgeliefert (DSGVO: keine Verbindung zu Fremd-CDNs).
+  Der Download-Mechanismus von jekyll-3rd-party-libraries laedt nur das CSS,
+  nicht die darin referenzierten ../webfonts/*.woff2 -- die Icons blieben leer.
+  Daher liegen CSS und Webfonts fest im Repo unter assets/fontawesome/.
+{% endcomment %}
+<link rel="stylesheet" href="{{ '/assets/fontawesome/css/all.min.css' | relative_url | bust_file_cache }}">
 <link
   defer
   rel="stylesheet"

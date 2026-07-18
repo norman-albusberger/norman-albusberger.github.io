@@ -70,10 +70,15 @@ layout: default
         {%- comment -%}
           jekyll-socials leitet die title-Attribute aus den YAML-Schluesselnamen ab
           ("Cv pdf", "Github username", ...). Hier auf sprechende Texte korrigiert.
+          Ausserdem nutzt das CV-Icon die Academicons-Klasse "ai ai-cv"; diese
+          Icon-Schrift wird nicht mehr geladen (akademisch, nur fuer ein Symbol),
+          daher auf das FontAwesome-PDF-Icon umgestellt.
         {%- endcomment -%}
         {%- capture social_html -%}{% social_links %}{%- endcapture -%}
         <div class="contact-icons">
           {{- social_html
+            | replace: '"ai ai-cv"', '"fa-solid fa-file-pdf"'
+            | replace: "'ai ai-cv'", "'fa-solid fa-file-pdf'"
             | replace: "title='Cv pdf'", "title='Lebenslauf als PDF'"
             | replace: "title='Email'", "title='E-Mail schreiben'"
             | replace: "title='Github username'", "title='GitHub-Profil'"

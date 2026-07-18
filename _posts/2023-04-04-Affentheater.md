@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Affentheater – Effektiveres Management von IT-Fachkräften und Ingenieuren"
+title: "Affentheater: Effektiveres Management von IT-Fachkräften und Ingenieuren"
 date: 2023-04-04
-description: Warum intrinsische Motivation der Schlüssel zum Erfolg ist – illustriert an einem Experiment mit Affen.
+description: Warum intrinsische Motivation der Schlüssel zum Erfolg ist, illustriert an einem Experiment mit Affen.
 tags: IT-Management
 categories: IT-Management
 related_posts: false

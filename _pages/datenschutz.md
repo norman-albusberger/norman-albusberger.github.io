@@ -8,12 +8,12 @@ description: Informationen zur Verarbeitung personenbezogener Daten nach Art. 13
 
 ## Verantwortlicher
 
-Norman Albusberger
-Albrecht-Dürer Straße 64
-15827 Blankenfelde-Mahlow
+Norman Albusberger<br>
+Albrecht-Dürer Straße 64<br>
+15827 Blankenfelde-Mahlow<br>
 Deutschland
 
-E-Mail: [norman.albusberger@icloud.com](mailto:norman.albusberger@icloud.com)
+E-Mail: [norman.albusberger@icloud.com](mailto:norman.albusberger@icloud.com)<br>
 Telefon: [+49 176 57912348](tel:+4917657912348)
 
 ## Grundsatz
@@ -55,7 +55,7 @@ Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschun
 
 Unabhängig davon steht dir ein **Beschwerderecht bei einer Aufsichtsbehörde** zu (Art. 77 DSGVO). Zuständig ist:
 
-Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg
-Stahnsdorfer Damm 77
-14532 Kleinmachnow
+Die Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg<br>
+Stahnsdorfer Damm 77<br>
+14532 Kleinmachnow<br>
 <https://www.lda.brandenburg.de>
