@@ -35,7 +35,7 @@ latest_posts:
 
 Seit über **25 Jahren** verantworte ich Technologie: als **Gründer, Geschäftsführer und CTO** eines eigenen Unternehmens, als technischer Leiter von Produkt- und Engineering-Organisationen und aktuell als **Cluster Lead** im Automotive Managed Service im **Daimler-Truck-Umfeld**.
 
-Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Strategie und Services verantwortet. Als **Diplom-Volkswirt (TU Berlin**, Schwerpunkt Innovations- und Informationsgüterökonomie**)** messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis.
+Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Strategie und Services verantwortet. Als **Diplom-Volkswirt (TU Berlin)** mit Schwerpunkt in Informationsgüterökonomik und strategischem IT-Management messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis. Schon meine Diplomarbeit untersuchte, was über die Marktdurchdringung neuer Technologien entscheidet.
 
 ## Profil im Überblick
 

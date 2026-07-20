@@ -87,12 +87,15 @@ cv:
     Education:
       - institution: Technische Universität Berlin
         location: Berlin
-        area: Volkswirtschaftslehre mit Schwerpunkt Innovations- und Informationsgüterökonomie, Strategisches IT-Management
+        area: Volkswirtschaftslehre (Fakultät VII, Wirtschaft und Management)
         studyType: Diplom-Volkswirt
         end_date: 2015
-        summary: >
-          Schwerpunkte Innovationsökonomie, Informationsgüterökonomie und strategisches IT-Management:
-          die ökonomische Grundlage für technologische Entscheidungen mit Blick auf Wertschöpfung und Markt.
+        highlights:
+          - "Schwerpunkte: Informationsgüterökonomik, strategisches IT-Management sowie Infrastruktur- und Netzökonomie."
+          - "Diplomarbeit „Determinants of Diffusion of Virtual Reality“ am Fachgebiet Innovationsökonomie (Prof. Knut Blind): Analyse der Faktoren, die über die Marktdurchdringung neuer Technologien entscheiden."
+          - "Projektstudie NETCON „Markets, Competition and Policy in Next Generation Networks“ (Prof. von Hirschhausen)."
+          - "Vertiefung in strategischem IT-Management (Prof. Krallmann) sowie Mobile Communications und Ubiquitous Computing (Prof. Popescu-Zeletin)."
+          - "Ökonometrie als quantitative Grundlage für datengetriebene Entscheidungen."
 
     Skills:
       - name: Leadership & Management
