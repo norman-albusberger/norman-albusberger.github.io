@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" font-family="Helvetica,Arial,sans-serif">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#155e75"/>
+  </linearGradient></defs>
+  <rect width="600" height="340" fill="url(#g)"/>
+  <rect x="0" y="0" width="8" height="340" fill="#5eead4"/>
+  <text x="40" y="150" font-size="46" font-weight="700" fill="#ffffff">SonoX</text>
+  <text x="40" y="188" font-size="20" fill="#ffffff" fill-opacity="0.85">Sonos × Loxone Smart-Home-Plattform</text>
+  <g font-size="15" fill="#ffffff" fill-opacity="0.95">
+    <rect x="40"  y="250" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="60"  y="272">IoT · Platform</text>
+    <rect x="205" y="250" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="225" y="272">Node.js · MQTT</text>
+    <rect x="370" y="250" width="180" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/><text x="390" y="272">TTS</text>
+  </g>
+</svg>
