@@ -1,0 +1,188 @@
+<!DOCTYPE html> <html lang="de"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage | Norman Albusberger </title> <meta name="author" content="Norman Albusberger"> <meta name="description" content="Wie wirksam ist eine Feuerwerkssteuer? Eine Analyse über die Preiselastizität der Nachfrage."> <meta name="keywords" content="Norman Albusberger, Technology Executive, CTO, VP Engineering, Director Technology, Head of Engineering, Softwarearchitektur, Enterprise Software, Künstliche Intelligenz, Generative AI, Machine Learning, Digitalisierung, SaaS, Cloud, Leadership, Produktentwicklung, Organisationsentwicklung"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css?v=07a04d43d67adc55c158f590a82769b8"> <link defer rel="stylesheet" type="text/css" href="/assets/libs/google_fonts/google-fonts.css"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%92%A1&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=f0b101217084a90093badfe99ff9a7d1"> <link rel="canonical" href="https://norman-albusberger.github.io/blog/2023/Besteuerung-von-Feuerwerk/"> <script src="/assets/js/theme.js?v=7af685e2ba20b37fef545c97b8064050"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
+    // Dunkles Theme als Standard, solange der Besucher noch nichts anderes gewaehlt hat.
+    // Eine bewusste Auswahl ueber den Umschalter bleibt in localStorage erhalten.
+    if (!localStorage.getItem("theme")) {
+      localStorage.setItem("theme", "dark");
+    }
+    initTheme();
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Norman</span> Albusberger </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">profil </a> </li> <li class="nav-item "> <a class="nav-link" href="/cv/">cv </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">projekte </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">blog </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage</h1> <p class="post-meta"> Created on November 22, 2023 </p> <p class="post-tags"> <a href="/blog/2023"> <i class="fa-solid fa-calendar fa-sm"></i> 2023 </a>   ·   <a href="/blog/tag/economics"> <i class="fa-solid fa-hashtag fa-sm"></i> Economics</a>   ·   <a href="/blog/category/economics"> <i class="fa-solid fa-tag fa-sm"></i> Economics</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <p>Die Einführung einer Steuer auf Feuerwerke ist eine mögliche Maßnahme, um die negativen externen Effekte, die durch deren Nutzung entstehen, zu internalisieren. Eine solche Steuer würde den Preis von Feuerwerkskörpern erhöhen, mit dem Ziel, die Nachfrage zu reduzieren und die sozialen Kosten, die durch Umweltverschmutzung, Lärmbelästigung, Sicherheitsrisiken und Reinigungsaufwand entstehen, besser widerzuspiegeln. Die Wirksamkeit dieser Maßnahme hängt jedoch stark von der Preiselastizität der Nachfrage nach Feuerwerken ab.</p> <h4 id="preiselastizität-der-nachfrage">Preiselastizität der Nachfrage</h4> <p>Die Preiselastizität der Nachfrage misst, wie sensibel die nachgefragte Menge eines Gutes auf Preisänderungen reagiert. Ist die Nachfrage preiselastisch, führt eine Preiserhöhung zu einem überproportionalen Rückgang der nachgefragten Menge. Bei einer preisunelastischen Nachfrage hingegen bewirkt eine Preiserhöhung nur einen unterproportionalen Rückgang der nachgefragten Menge.</p> <p>Im Kontext von Feuerwerken könnte die Nachfrage aus verschiedenen Gründen relativ preisunelastisch sein:</p> <ul> <li> <strong>Tradition und kulturelle Bedeutung:</strong> Da Feuerwerke tief in der Silvestertradition verwurzelt sind, könnten Konsumenten bereit sein, höhere Preise zu zahlen, um die Tradition fortzusetzen.</li> <li> <strong>Gelegentlicher Kauf:</strong> Da Feuerwerke üblicherweise nur einmal jährlich gekauft werden, könnte die Preissensibilität geringer sein als bei Gütern des täglichen Bedarfs.</li> <li> <strong>Sozialer Druck und Gruppendynamik:</strong> In gesellschaftlichen Kontexten, wo der Einsatz von Feuerwerken als Zeichen von Feierlichkeit und Teilhabe gesehen wird, könnte der soziale Druck die Preiselastizität der Nachfrage weiter verringern.</li> </ul> <h4 id="auswirkungen-einer-besteuerung-zur-lenkung-der-nachfrage">Auswirkungen einer Besteuerung zur Lenkung der Nachfrage</h4> <p>Die Einführung einer Steuer auf Feuerwerke würde den Verkaufspreis erhöhen und könnte dadurch die Nachfrage reduzieren, vorausgesetzt, die Nachfrage ist zumindest in einem gewissen Maße preiselastisch. Der Erfolg dieser Maßnahme hängt von der Höhe der Steuer ab: Eine zu geringe Steuer könnte kaum Auswirkungen haben, während eine zu hohe Steuer als unverhältnismäßig angesehen werden könnte und möglicherweise zu unerwünschten Nebeneffekten wie Schwarzmarktaktivitäten führt.</p> <p>Die Einnahmen aus der Feuerwerkssteuer könnten zweckgebunden eingesetzt werden, um die durch Feuerwerke verursachten externen Kosten zu kompensieren, beispielsweise für Gesundheitsversorgung, Umweltschutzmaßnahmen oder die Reinigung öffentlicher Plätze.</p> <p>Die Nachfrage nach Feuerwerk könnte etwa durch eine Nachfragefunktion repräsentiert werden, bei der die Menge nur langsam mit steigenden Preisen abnimmt.</p> <p>Wir nehmen an, die Nachfrage nach Feuerwerk \(Q\) in Abhängigkeit vom Preis \(P\) kann durch die folgende lineare Funktion dargestellt werden:</p> \[Q = a - bP\] <p>wobei:</p> <ul> <li>\(a\) die maximale Nachfragemenge bei einem Preis von 0 darstellt (theoretischer Maximalwert der Nachfrage),</li> <li>\(b\) die Sensitivität der Nachfrage in Bezug auf Preisänderungen darstellt (eine geringere Zahl für \(b\) bedeutet eine geringere Preiselastizität).</li> </ul> <p>Für unser Beispiel setzen wir \(a = 500\) (Einheiten) und \(b = 0.1\) , was eine relativ geringe Preiselastizität der Nachfrage impliziert:</p> \[Q = 500 - 0.1P\] <h4 id="formale-analyse-einer-pauschalen-besteuerung">Formale Analyse einer pauschalen Besteuerung:</h4> <p>Nehmen wir an, eine Steuer \(T\) pro Einheit Feuerwerk wird eingeführt. Diese Steuer erhöht effektiv den Preis pro Einheit Feuerwerk für den Konsumenten. Die neue Nachfragefunktion unter Berücksichtigung der Steuer würde dann lauten:</p> \[Q_T = 500 - 0.1(P + T)\] <p>Wenn wir eine Steuer von \(T = 50\) (Einheiten) annehmen, würde die neue Nachfragefunktion werden:</p> \[Q_T = 500 - 0.1(P + 50)\] <p><img src="/assets/img/blog/nachfrage-nach-feuerwerk.png" alt="Nachfrage nach Feuerwerk"></p> <p>Die Grafik visualisiert die Preiselastizität der Nachfrage und den Effekt einer Steuer darauf. Die ursprüngliche Nachfragekurve (vor Steuer) zeigt, wie die nachgefragte Menge mit steigendem Preis abnimmt. Nach Einführung der Steuer verschiebt sich die Nachfragekurve nach oben (gestrichelte Linie), was einen höheren Preis bei jeder gegebenen Menge widerspiegelt. Die Fläche zwischen beiden Nachfragefunktionen stellt den Steuereffekt dar.</p> <h4 id="auswirkung-der-steuer">Auswirkung der Steuer:</h4> <p>Die Auswirkung der Steuer auf die Nachfrage lässt sich durch den Vergleich der Nachfragemengen vor und nach der Einführung der Steuer bei verschiedenen Preispunkten ermitteln. Da \(b\) relativ klein ist, zeigt die geringe Steigung der Nachfragefunktion, dass selbst eine signifikante Steuererhöhung die Nachfragemenge nicht drastisch reduzieren würde. Dies spiegelt eine geringe Preiselastizität der Nachfrage wider, bei der Konsumenten trotz höherer Preise durch die Steuer nicht wesentlich weniger Feuerwerk nachfragen.</p> <p>Diese Analyse zeigt, dass bei einer geringen Preiselastizität der Nachfrage, wie sie für Produkte mit hoher kultureller oder traditioneller Bedeutung wie Feuerwerk typisch ist, eine Besteuerung möglicherweise nicht zu einer signifikanten Reduzierung der Nachfrage führt. Dies unterstreicht die Bedeutung der Berücksichtigung der spezifischen Eigenschaften des Marktes und der Verbrauchersensitivität bei der Gestaltung von Steuerpolitiken.</p> <h4 id="analyse-einer-prozentualen-besteuerung">Analyse einer prozentualen Besteuerung</h4> <p>Wenn die Besteuerung auf Feuerwerk nicht als pauschaler Betrag pro Einheit, sondern als prozentualer Aufschlag auf den Preis erfolgt, würde dies den Verkaufspreis des Feuerwerks in Abhängigkeit vom Basispreis erhöhen. Dieses Konzept findet man sehr häufig bei verschiedenen Arten von Besteuerung. Die Mehrwertsteuer ist ein bekanntes Beispiel für eine prozentuale Besteuerung.</p> <p>Angenommen, der Steuersatz beträgt \(t\) Prozent des Preises. Dann würde der effektive Preis, den die Konsumenten zahlen, \(P(1 + t)\) sein, wobei \(P\) der Basispreis ohne Steuer ist und \(t\) als Dezimalzahl ausgedrückt wird (z.B. bedeutet ein Steuersatz von 20%, dass \(t = 0.20\) beträgt.).</p> <p>Für eine lineare Nachfragefunktion ohne Steuer, die durch \(Q = a - bP\) dargestellt wird, wobei \(Q\) die nachgefragte Menge, \(P\) der Preis, \(a\) die maximale Nachfragemenge bei einem Preis von 0 und \(b\) die Sensitivität der Nachfrage in Bezug auf Preisänderungen ist, würde die Nachfragefunktion mit einer prozentualen Besteuerung wie folgt modifiziert:</p> \[Q_T = a - bP(1 + t)\] <p>In dieser Gleichung:</p> <ul> <li>\(Q_T\) ist die nachgefragte Menge nach der Einführung der prozentualen Steuer,</li> <li>\(P(1 + t)\) repräsentiert den neuen Preis inklusive der Steuer.</li> </ul> <p>Diese modifizierte Nachfragefunktion zeigt, dass die nachgefragte Menge \(Q_T\) nicht nur vom Basispreis \(P\) abhängt, sondern auch vom erhöhten Preis durch die prozentuale Besteuerung. Die Steigung der Nachfragekurve bleibt unverändert, aber die Kurve verschiebt sich nach links, was eine Verringerung der nachgefragten Menge bei jedem Preisniveau bedeutet. Der Grad dieser Verschiebung und die Auswirkungen auf die nachgefragte Menge hängen vom Steuersatz \(t\) ab.</p> <p><img src="/assets/img/blog/besteuerung-prozentual.png" alt="Prozentuale Besteuerung von Feuerwerk"></p> <p>Die Grafik zeigt die Auswirkung einer prozentualen Besteuerung von 20% auf die Nachfrage nach einer Packung Raketen, deren Basispreis beispielsweise 15 € beträgt. Die blaue Linie repräsentiert die Nachfragekurve ohne Steuer, während die gestrichelte rote Linie die Nachfragekurve mit der prozentualen Steuer darstellt. Die grüne gestrichelte Linie markiert den Basispreis von 15 € für eine Packung Raketen.</p> <p>Man kann erkennen, dass die Einführung der Steuer die Nachfragekurve nach links verschiebt und dreht, was eine Verringerung der nachgefragten Menge bei jedem gegebenen Preisniveau anzeigt. Diese Verschiebung verdeutlicht, dass die prozentuale Besteuerung den effektiven Preis der Raketen erhöht und dadurch die Nachfrage reduziert.</p> <p>Diese Form der Besteuerung kann dazu führen, dass die Preissensitivität der Konsumenten stärker ins Gewicht fällt, da höhere Basispreise durch den prozentualen Aufschlag zu überproportional höheren Endpreisen führen. Im Gegensatz zu einer pauschalen Steuer, die unabhängig vom Preis des Feuerwerks ist, wirkt sich eine prozentuale Steuer stärker auf teurere Feuerwerkskörper aus und könnte somit das Kaufverhalten stärker beeinflussen, insbesondere bei preissensitiven Konsumenten.</p> <h4 id="fehlende-zweckbindung">Fehlende Zweckbindung</h4> <p>Ein wesentlicher Nachteil der Nutzung von Steuern zur Internalisierung externer Effekte, wie etwa bei der Besteuerung von Feuerwerkskörpern, ist die fehlende Zweckbindung der Steuereinnahmen. Steuereinnahmen fließen in den allgemeinen Haushalt und sind nicht automatisch für spezifische Maßnahmen vorgesehen, die die durch die besteuerten Aktivitäten verursachten externen Effekte direkt angehen. Ohne eine gesetzlich festgelegte Zweckbindung könnten die Einnahmen aus einer Steuer auf Feuerwerke beispielsweise nicht gezielt für Umweltschutzmaßnahmen, Gesundheitsvorsorge oder die Reinigung öffentlicher Räume nach Silvester verwendet werden.</p> <p>Aber selbst wenn eine Zweckbindung besteht, gibt es keine Garantie dafür, dass die Mittel auf effiziente Weise zur Minderung der externen Effekte eingesetzt werden. Die Wirksamkeit der Verwendung der Steuereinnahmen hängt von der Qualität der staatlichen Planung, Durchführung und Überwachung der entsprechenden Maßnahmen ab.</p> <h4 id="kritische-betrachtung">Kritische Betrachtung</h4> <p>Die Idee einer Besteuerung zur Internalisierung externer Kosten, insbesondere im Kontext der Feuerwerksnutzung, stößt in der Praxis auf bedeutende Herausforderungen. Die Wirksamkeit einer solchen Steuer hängt entscheidend von der Preiselastizität der Nachfrage ab, die im Falle von Feuerwerken als relativ gering einzustufen ist. Dies bedeutet, dass selbst signifikante Preiserhöhungen durch Steuern möglicherweise keine substanzielle Reduktion der Nachfrage nach sich ziehen. Hinzu kommt, dass Feuerwerke tief in kulturellen und traditionellen Praktiken verwurzelt sind, was ihre Nachfrage zusätzlich preisunelastisch macht. Die Annahme, dass eine Besteuerung allein eine effiziente Lösung zur Adressierung der durch Feuerwerke verursachten externen Effekte darstellt, könnte daher zu optimistisch sein.</p> <h4 id="fazit">Fazit</h4> <p>Angesichts der geringen Preiselastizität der Nachfrage nach Feuerwerken und der tiefen kulturellen Verankerung dieser Praxis muss die Wirksamkeit einer Besteuerung als Instrument zur Reduzierung der negativen externen Effekte kritisch hinterfragt werden. Zwar könnte eine Steuer theoretisch zur Kosteninternalisierung beitragen, doch ist ihre praktische Effektivität in diesem spezifischen Kontext möglicherweise begrenzt. Um eine nachhaltigere Handhabung der Feuerwerksnutzung zu erreichen, bedarf es eines umfassenderen Ansatzes, der neben fiskalischen Maßnahmen auch regulative Eingriffe, Aufklärungskampagnen und die Förderung von umweltfreundlicheren Alternativen umfasst. Eine solche mehrdimensionale Strategie könnte eher in der Lage sein, die komplexen Herausforderungen, die mit der Feuerwerksnutzung einhergehen, wirksam anzugehen und zu einer gerechten und nachhaltigen Lösung beizutragen.</p> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Norman Albusberger. <a href="https://norman-albusberger.github.io/impressum/">Impressum</a>. <a href="https://norman-albusberger.github.io/datenschutz/">Datenschutz</a>. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="/assets/libs/masonry/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="/assets/libs/imagesloaded/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="/assets/libs/mathjax/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/al_math/js/mathjax-setup.js"></script> <script defer src="/assets/libs/polyfill/polyfill.min.js" crossorigin="anonymous"></script> <script src="/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script src="/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script defer src="/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="/assets/libs/vanilla-back-to-top/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-profil",
+    title: "profil",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-cv",
+          title: "cv",
+          description: "Executive-Profil: Führung, Transformation, Budgetverantwortung, Softwarearchitektur und angewandte KI.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-projekte",
+          title: "projekte",
+          description: "Ausgewählte eigene Technology Ventures aus Künstlicher Intelligenz, Automation und Product Engineering.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-die-mann-tag-methode-als-game-changer",
+        
+          title: "Die Mann-Tag-Methode als Game-Changer",
+        
+        description: "Eine pragmatische Alternative zu Fibonacci und T-Shirt-Größen in der agilen Aufwandsschätzung.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Scrum/";
+          
+        },
+      },{id: "post-besteuerung-von-feuerwerken-unter-berücksichtigung-der-preiselastizität-der-nachfrage",
+        
+          title: "Besteuerung von Feuerwerken unter Berücksichtigung der Preiselastizität der Nachfrage",
+        
+        description: "Wie wirksam ist eine Feuerwerkssteuer? Eine Analyse über die Preiselastizität der Nachfrage.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Besteuerung-von-Feuerwerk/";
+          
+        },
+      },{id: "post-affentheater-effektiveres-management-von-it-fachkräften-und-ingenieuren",
+        
+          title: "Affentheater: Effektiveres Management von IT-Fachkräften und Ingenieuren",
+        
+        description: "Warum intrinsische Motivation der Schlüssel zum Erfolg ist, illustriert an einem Experiment mit Affen.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Affentheater/";
+          
+        },
+      },{id: "post-feuerwerkskörper-und-marktversagen-eine-analyse-der-externen-effekte-von-silvesterfeuerwerk-in-deutschland",
+        
+          title: "Feuerwerkskörper und Marktversagen: Eine Analyse der externen Effekte von Silvesterfeuerwerk in Deutschland",
+        
+        description: "Silvesterfeuerwerk als Beispiel für Marktversagen durch negative externe Effekte.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Feuerwerk/";
+          
+        },
+      },{id: "projects-facestream-ai",
+          title: 'FaceStream.AI',
+          description: "Real-time Face Recognition in Live Video, selbst-hostbare Computer-Vision-Plattform mit Anti-Spoofing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_facestream/";
+            },},{id: "projects-fibu-pilot",
+          title: 'FiBu-Pilot',
+          description: "KI-gestützte, lokal laufende Automation der Buchhaltungsvorbereitung bis zum DATEV-Export",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_fibu-pilot/";
+            },},{id: "projects-mailgpt",
+          title: 'MailGPT',
+          description: "Generative-AI direkt im E-Mail-Workflow integriert, Automation ohne Medienbruch",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_mailgpt/";
+            },},{id: "projects-susa-immobilien-analyse",
+          title: 'SUSA · Immobilien-Analyse',
+          description: "Steuer- und Cashflow-Analyse für Vermietungsimmobilien als moderne Desktop-App",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_susa/";
+            },},{id: "projects-sonox",
+          title: 'SonoX',
+          description: "Von Open Source zum Hardware-Produkt, Sonos-Integration für Loxone als Plugin und als Audio-Server-Appliance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_sonox/";
+            },},{id: "projects-bold2lox",
+          title: 'bold2lox',
+          description: "Sichere Anbindung einer proprietären Cloud-API an die Gebäudeautomation, mit Fokus auf Betriebsfestigkeit",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_bold2lox/";
+            },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/Norman_Albusberger_CV_en.pdf", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6E%6F%72%6D%61%6E.%61%6C%62%75%73%62%65%72%67%65%72@%69%63%6C%6F%75%64.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/norman-albusberger", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/norman-albusberger-186a1562", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
+
+</script> <script src="/assets/al_search/js/shortcut-key.js"></script> </body> </html>

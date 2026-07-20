@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://norman-albusberger.github.io/sitemap.xml
