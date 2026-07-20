@@ -15,4 +15,4 @@ category: Product Engineering
 
 **Technologien:** Node.js, MQTT, Text-to-Speech (ElevenLabs), REST, Loxberry, DIN-Rail-Hardware-Appliance.
 
-[Zum Produkt: sonox.net](https://sonox.net/){:target="_blank"} · [Open-Source-Repository](https://github.com/norman-albusberger/sonox){:target="_blank"}
+[Zum Produkt: sonox.net](https://sonox.net/){:target="_blank"} · [Im Loxberry-Plugin-Store](https://wiki.loxberry.de/plugins/sonox/start){:target="_blank"} · [Open-Source-Repository](https://github.com/norman-albusberger/sonox){:target="_blank"}
