@@ -35,14 +35,13 @@ latest_posts:
 
 Seit über **25 Jahren** verantworte ich Technologie: als **Gründer, Geschäftsführer und CTO** eines eigenen Unternehmens, als technischer Leiter von Produkt- und Engineering-Organisationen und aktuell als **Cluster Lead** im Automotive Managed Service im **Daimler-Truck-Umfeld**.
 
-Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Strategie und Services verantwortet. Als **Diplom-Volkswirt (TU Berlin)** mit Schwerpunkt in Informationsgüterökonomik und strategischem IT-Management messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis. Schon meine Diplomarbeit untersuchte, was über die Marktdurchdringung neuer Technologien entscheidet.
-
+Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und führe die Teams, die sie betreiben. Ein Unternehmen habe ich von der Gründung bis zu **5,5 Mio. € Jahresumsatz** aufgebaut und dabei Technologie, Strategie und Services verantwortet. Als **Diplom-Volkswirt (TU Berlin)** mit Schwerpunkt in Informationsgüterökonomik und strategischem IT-Management messe ich Technologieentscheidungen an ihrem wirtschaftlichen Ergebnis.
 ## Profil im Überblick
 
 <div class="row">
   <div class="col-md-6 mb-3">
     <h5>Unternehmen aufgebaut und geführt</h5>
-    <p>Als Gründer, Geschäftsführer und CTO die <strong>FLZR GmbH</strong> von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit Verantwortung für Technologie, Strategie und Services.</p>
+    <p>Als Gründer, Geschäftsführer und CTO ein Unternehmen von der Idee auf <strong>36 feste Mitarbeitende, über 800 angebundene Freelancer und 5,5 Mio. € Jahresumsatz</strong> aufgebaut, mit Verantwortung für Technologie, Strategie und Services.</p>
   </div>
   <div class="col-md-6 mb-3">
     <h5>Technologische Führungsverantwortung</h5>
@@ -50,7 +49,7 @@ Ich entwerfe Softwarearchitekturen, baue KI-Systeme bis zur Produktionsreife und
   </div>
   <div class="col-md-6 mb-3">
     <h5>Künstliche Intelligenz in Produktivsystemen</h5>
-    <p>Eigene KI-Systeme bis zur Produktionsreife gebaut: Echtzeit-Gesichtserkennung mit Anti-Spoofing, lernende Beleg- und Zahlungszuordnung im laufenden Buchhaltungsbetrieb, GPT-Integration in bestehende Workflows. <strong>Fine-Tuning und Modelltraining</strong> mit TensorFlow, PyTorch und scikit-learn, dazu <strong>RAG und Agentic AI</strong>.</p>
+    <p>Eigene KI-Systeme bis zur Produktionsreife gebaut: Echtzeit-Gesichtserkennung mit Liveliness-Recognition, lernende Beleg- und Zahlungszuordnung im laufenden Buchhaltungsbetrieb, GPT-Integration in bestehende Workflows. <strong>Fine-Tuning und Modelltraining</strong> mit TensorFlow, PyTorch und scikit-learn, dazu <strong>RAG und Agentic AI</strong>.</p>
   </div>
   <div class="col-md-6 mb-3">
     <h5>Führung und Transformation</h5>
